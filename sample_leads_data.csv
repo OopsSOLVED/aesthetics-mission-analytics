@@ -1,0 +1,501 @@
+sl_no,date,source_of_leads,department,alloted_person,contact_no,customer_name,customer_business_name,business_type,latitude,longitude,city,work_requirement,year,month,phone_valid,is_duplicate_lead,stage_clean_norm,final_lead_stage,Revenue
+1,2023-01-01,Google Ads,Commercial,Ajith P,9795651302,Vijay Hassan,Thomas Group,Builder,9.517335430615443,76.38225438807156,Alappuzha,False Ceiling,2023,1,True,False,Quotation Sent,Negotiation,0
+2,2023-01-03,Instagram,Residential,Arun K,9215064244,Gopal Warrier,Anoop Constructions,Individual,10.500933282264933,76.19473855436291,Thrissur,Commercial Space,2023,1,True,False,Negotiation,Won,2260846
+3,2023-01-05,Facebook,Commercial,Arun K,9378913998,Fathima George,Arun Homes,Architect Referral,8.905733016995445,76.64228909129969,Kollam,Bedroom Design,2023,1,True,False,Design Phase,Lost,0
+4,2023-01-07,Google Ads,Commercial,Rahul S,9407725518,Sabu Krishnan,,Individual,11.899207826712903,75.39698586438848,Kannur,Pooja Room,2023,1,True,False,Negotiation,Follow-up,244456
+5,2023-01-09,Google Ads,Residential,Anjali D,9220367491,Gopal Kumar,Thankam Builders,Individual,9.469971388890654,76.35796556518666,Alappuzha,Pooja Room,2023,1,True,False,Design Phase,Lost,0
+6,2023-01-11,WhatsApp,Renovation,Sneha B,9146606102,Kavitha Namboothiri,,Corporate,11.006994330086131,76.11766389752668,Malappuram,Commercial Space,2023,1,True,True,Follow-up,Site Visit,0
+7,2023-01-14,Facebook,Renovation,Sneha B,9906261573,Abdul Thomas,,Builder,8.487197374299418,76.92595553361063,Thiruvananthapuram,Bedroom Design,2023,1,True,False,Won,Quotation Sent,426460
+8,2023-01-16,Referral,Modular Kitchen,Priya M,9257661143,Vijay Kurup,,Individual,9.508699696727103,76.30187173235898,Alappuzha,Pooja Room,2023,1,True,False,Follow-up,Site Visit,255385
+9,2023-01-18,Facebook,Commercial,Arun K,9479610451,Smitha Joseph,,Corporate,8.928144640622573,76.6312708859244,Kollam,Pooja Room,2023,1,True,False,Won,Won,351129
+10,2023-01-20,IndiaMART,Office Interiors,Rahul S,9201629945,Shyamala Krishnan,Vijay Homes,Small Business,11.828999682123541,75.39333098004772,Kannur,Pooja Room,2023,1,True,False,Follow-up,Won,1071480
+11,2023-01-22,Facebook,Residential,Sneha B,9954478692,Divya Abraham,Lakshmi LLP,Corporate,10.551015125904165,76.22190605734588,Thrissur,Commercial Space,2023,1,True,True,Follow-up,Follow-up,0
+12,2023-01-25,Instagram,Office Interiors,Rahul S,9608297419,Fathima Varma,Suresh Enterprises,Corporate,8.877331864595005,76.58478178931334,Kollam,Modular Wardrobe,2023,1,True,False,Negotiation,Design Phase,0
+13,2023-01-27,JustDial,Residential,Meera T,9746856864,Mohammed Thomas,Sreelatha Developers,Corporate,8.891052836991953,76.61454559416693,Kollam,Traditional Living Room,2023,1,True,True,Won,Quotation Sent,315009
+14,2023-01-29,WhatsApp,Office Interiors,Anjali D,9883171099,Anoop Warrier,Rajan Builders,Individual,8.566985954984558,76.9178189736569,Thiruvananthapuram,Commercial Space,2023,1,True,False,Won,Quotation Sent,0
+15,2023-01-31,Google Ads,Residential,Arun K,9233784320,Sabu Kumar,,Individual,10.769897150473584,76.64754665281666,Palakkad,Bedroom Design,2023,1,False,True,Follow-up,Lost,0
+16,2023-02-02,WhatsApp,Office Interiors,Priya M,9141130558,Santhosh Khan,Sabu Developers,Small Business,11.871033693393947,75.38492185758447,Kannur,False Ceiling,2023,2,True,False,Design Phase,Lost,0
+17,2023-02-05,Instagram,Renovation,Ajith P,9160148245,Anoop Kurup,Rekha Associates,Architect Referral,9.882568241476068,76.29182147426909,Kochi,Modular Wardrobe,2023,2,True,False,Lost,Follow-up,0
+18,2023-02-07,Referral,Residential,Sneha B,9244639045,Rajan Iyer,Sreelatha LLP,Architect Referral,8.851359872000485,76.58732246909013,Kollam,Modular Wardrobe,2023,2,True,False,Lost,Won,1033638
+19,2023-02-09,Google Ads,Commercial,Meera T,9809704572,Divya Kurup,,Architect Referral,10.762559159113477,76.64533253606469,Palakkad,False Ceiling,2023,2,True,False,Negotiation,Won,1451823
+20,2023-02-11,Google Ads,Renovation,Rahul S,9654848660,Sreelatha Varma,Vijay Homes,Small Business,9.883985224082108,76.24421615709917,Kochi,Modern Kitchen,2023,2,True,True,Negotiation,Design Phase,0
+21,2023-02-13,Walk-in,Commercial,Divya N,9694698847,Mohammed Patel,Suma Enterprises,Architect Referral,11.887637532604824,75.34026316138619,Kannur,Bathroom Renovation,2023,2,True,False,Lost,Won,2111892
+22,2023-02-16,Referral,Office Interiors,Suresh L,9419231566,Asif Sharma,Rekha Constructions,Architect Referral,11.251439835680163,75.80873872199959,Kozhikode,Traditional Living Room,2023,2,True,False,Lost,Won,1527310
+23,2023-02-18,Instagram,Modular Kitchen,Arun K,9346261252,Thomas Thomas,Mohammed Interiors,Corporate,11.055814520272802,76.1120252694437,Malappuram,Traditional Living Room,2023,2,True,False,Won,Won,146748
+24,2023-02-20,Walk-in,Commercial,Arun K,9658517051,Vijay Iyer,Babu LLP,Individual,10.754164718589633,76.64182321856845,Palakkad,Modern Kitchen,2023,2,True,False,Design Phase,Design Phase,0
+25,2023-02-22,Walk-in,Residential,Meera T,9267414903,Divya Thomas,Nisha Homes,Individual,9.571193202943661,76.54732789243738,Kottayam,Bathroom Renovation,2023,2,True,False,Won,Follow-up,114733
+26,2023-02-24,Google Ads,Residential,Rahul S,9564373549,Gopal Das,,Corporate,11.275182447485273,75.82009952893644,Kozhikode,Traditional Living Room,2023,2,True,False,Lost,Negotiation,136865
+27,2023-02-27,Referral,Office Interiors,Vijay R,9816604081,Rajesh Joseph,Anjali Developers,Corporate,11.09753027236304,76.10571242105303,Malappuram,Bedroom Design,2023,2,True,False,Won,Quotation Sent,0
+28,2023-03-01,Google Ads,Commercial,Arun K,9245051311,Rajan Panicker,Anoop Group,Corporate,8.479141677360222,76.90488133885393,Thiruvananthapuram,Office Cabin,2023,3,True,False,Won,Lost,0
+29,2023-03-03,Walk-in,Commercial,Vijay R,9413650053,Meera Namboothiri,Suresh Builders,Individual,9.537138432085527,76.38442918815134,Alappuzha,Office Cabin,2023,3,True,False,Site Visit,Negotiation,0
+30,2023-03-05,Website,Commercial,Divya N,9868734424,Nisha Menon,Suma Properties,Architect Referral,10.53528812013112,76.20206764404294,Thrissur,Traditional Living Room,2023,3,True,False,Won,Won,2302412
+31,2023-03-07,IndiaMART,Modular Kitchen,Meera T,9735308087,Suresh Varma,,Corporate,9.597991956675562,76.50612406611738,Kottayam,Full Home Interior,2023,3,True,False,Won,Won,2468126
+32,2023-03-10,Google Ads,Office Interiors,Rahul S,9963568237,Anjali Krishnan,Mohammed Group,Small Business,8.524127853520776,76.89284313272778,Thiruvananthapuram,Traditional Living Room,2023,3,True,False,Follow-up,Quotation Sent,145091
+33,2023-03-12,Google Ads,Renovation,Rahul S,9693213114,Deepa Khan,Meera Group,Corporate,11.831439408590418,75.36901736541049,Kannur,False Ceiling,2023,3,True,False,Won,Site Visit,0
+34,2023-03-14,Facebook,Commercial,Anjali D,9160993015,Rajan Nair,,Builder,8.483087685173617,76.8975013615641,Thiruvananthapuram,False Ceiling,2023,3,True,False,Won,Lost,0
+35,2023-03-16,Facebook,Office Interiors,Suresh L,9423370727,Rekha Warrier,Asif Builders,Corporate,9.508191200565909,76.31365398209275,Alappuzha,Bathroom Renovation,2023,3,True,False,Site Visit,Lost,0
+36,2023-03-18,Facebook,Office Interiors,Sneha B,9748372124,Gopal Kurup,Thomas Enterprises,Individual,11.858595857143555,75.35209426217673,Kannur,Pooja Room,2023,3,True,False,Site Visit,Follow-up,0
+37,2023-03-20,JustDial,Modular Kitchen,Sneha B,9900666054,Anoop George,,Corporate,9.633326806657768,76.55308263234916,Kottayam,Modular Wardrobe,2023,3,True,False,Quotation Sent,Won,1761909
+38,2023-03-23,Facebook,Renovation,Ajith P,9816279884,Lakshmi Kumar,Divya Builders,Builder,9.488759053735949,76.3763488650396,Alappuzha,Bedroom Design,2023,3,True,False,Quotation Sent,Won,813361
+39,2023-03-25,Facebook,Residential,Priya M,9423907813,Anjali Krishnan,,Small Business,9.895528145870264,76.24754663174615,Kochi,Modern Kitchen,2023,3,True,False,Negotiation,Won,434793
+40,2023-03-27,Walk-in,Residential,Meera T,9505133201,Babu Thomas,,Architect Referral,10.549071883350203,76.25026981212446,Thrissur,Traditional Living Room,2023,3,True,False,Won,Won,1098025
+41,2023-03-29,Instagram,Office Interiors,Divya N,9507469313,Rekha Kurup,Suresh Homes,Corporate,9.5709353421441,76.55792309373697,Kottayam,Pooja Room,2023,3,False,False,Site Visit,Site Visit,0
+42,2023-03-31,Walk-in,Commercial,Rahul S,9369352928,Sabu Iyer,,Builder,9.93374703073559,76.2937650950385,Kochi,Pooja Room,2023,3,True,False,Quotation Sent,Won,1711127
+43,2023-04-03,Google Ads,Office Interiors,Suresh L,9429434293,Divya Krishnan,Thankam Properties,Builder,11.070783278550516,76.03576951140153,Malappuram,Bedroom Design,2023,4,True,False,Site Visit,Won,109155
+44,2023-04-05,Referral,Office Interiors,Vijay R,9988361852,Rajesh Pillai,Suma Developers,Small Business,9.631626411120207,76.54123228469007,Kottayam,Modern Kitchen,2023,4,True,False,Follow-up,Follow-up,0
+45,2023-04-07,Google Ads,Residential,Meera T,9388861951,Rajan George,Sabu Homes,Individual,11.080219119480168,76.11560240645805,Malappuram,False Ceiling,2023,4,True,False,Won,Quotation Sent,0
+46,2023-04-09,Google Ads,Office Interiors,Ajith P,9507669423,Nisha Warrier,Abdul Developers,Corporate,11.892136106787271,75.38865404787671,Kannur,Commercial Space,2023,4,True,False,Quotation Sent,Won,2427086
+47,2023-04-11,JustDial,Commercial,Meera T,9429218074,Smitha Panicker,,Builder,9.949163318239515,76.25046168491079,Kochi,Bedroom Design,2023,4,True,False,Site Visit,Won,526377
+48,2023-04-14,Google Ads,Commercial,Ajith P,9757532555,Babu Namboothiri,,Small Business,10.572192464403209,76.21445793174308,Thrissur,Pooja Room,2023,4,True,False,Design Phase,Lost,0
+49,2023-04-16,Referral,Modular Kitchen,Rahul S,9429163050,Rajesh Nair,,Architect Referral,9.477682409749654,76.35337250433511,Alappuzha,Office Cabin,2023,4,True,False,Won,Site Visit,408422
+50,2023-04-18,Instagram,Renovation,Priya M,9888431804,Mohammed George,,Builder,8.84331120941962,76.61515704087284,Kollam,Traditional Living Room,2023,4,True,False,Won,Follow-up,0
+51,2023-04-20,Facebook,Residential,Ajith P,9320537946,Smitha Hassan,,Small Business,8.50129545593982,76.89859529417309,Thiruvananthapuram,Bathroom Renovation,2023,4,True,False,Won,Site Visit,388355
+52,2023-04-22,JustDial,Commercial,Rahul S,9343374559,Anoop Nair,Lakshmi Enterprises,Individual,11.230589137962674,75.7616064044652,Kozhikode,Office Cabin,2023,4,True,False,Site Visit,Design Phase,0
+53,2023-04-25,Google Ads,Modular Kitchen,Rahul S,9848436028,Anjali Das,,Individual,10.543783458511399,76.24463960305536,Thrissur,Pooja Room,2023,4,True,False,Won,Site Visit,0
+54,2023-04-27,Website,Modular Kitchen,Priya M,9563956425,Divya Thomas,Rajan LLP,Builder,9.944571159976553,76.30344180460956,Kochi,Modular Wardrobe,2023,4,True,False,Won,Negotiation,471442
+55,2023-04-29,IndiaMART,Modular Kitchen,Sneha B,9124561090,Rajan George,Manoj LLP,Builder,8.902546138270473,76.57783000327154,Kollam,Full Home Interior,2023,4,True,False,Design Phase,Follow-up,0
+56,2023-05-01,Referral,Residential,Meera T,9405639774,Babu Abraham,,Corporate,10.479224344320945,76.25963867523987,Thrissur,Modern Kitchen,2023,5,True,False,Won,Won,2464697
+57,2023-05-03,IndiaMART,Residential,Arun K,9273305486,Santhosh Khan,,Small Business,9.954077805445065,76.25018226178487,Kochi,False Ceiling,2023,5,True,False,Quotation Sent,Design Phase,207298
+58,2023-05-06,Google Ads,Commercial,Arun K,9332058255,Rekha Patel,Nisha Interiors,Builder,10.769053041248549,76.67103137387306,Palakkad,Traditional Living Room,2023,5,True,False,Lost,Lost,0
+59,2023-05-08,Instagram,Office Interiors,Vijay R,9792312316,Smitha Varma,Rajan Constructions,Corporate,10.803205598900663,76.67998251459566,Palakkad,Bathroom Renovation,2023,5,True,False,Quotation Sent,Won,477479
+60,2023-05-10,Facebook,Residential,Vijay R,9392506380,Lakshmi Pillai,,Corporate,11.056657842850216,76.10229462346379,Malappuram,Commercial Space,2023,5,True,False,Follow-up,Negotiation,267777
+61,2023-05-12,Walk-in,Residential,Arun K,9658692208,Abdul Warrier,,Builder,10.51187309254279,76.2589749702226,Thrissur,False Ceiling,2023,5,True,False,Quotation Sent,Lost,0
+62,2023-05-14,YouTube,Renovation,Divya N,9196318451,Anoop Sharma,,Individual,10.750157626710411,76.63609195480288,Palakkad,Traditional Living Room,2023,5,True,False,Design Phase,Follow-up,0
+63,2023-05-17,Facebook,Residential,Arun K,9708643530,Thomas Namboothiri,Deepa Builders,Small Business,9.890641889766048,76.30315064545516,Kochi,Commercial Space,2023,5,True,False,Won,Follow-up,0
+64,2023-05-19,Website,Renovation,Vijay R,9574279610,Gopal Joseph,Suma Properties,Small Business,11.084151833311223,76.03426869034362,Malappuram,Bathroom Renovation,2023,5,True,False,Won,Lost,0
+65,2023-05-21,Google Ads,Modular Kitchen,Suresh L,9525970580,Thomas Nair,,Individual,9.973039754208155,76.28780409063536,Kochi,Pooja Room,2023,5,True,False,Lost,Quotation Sent,0
+66,2023-05-23,Referral,Office Interiors,Vijay R,9244904690,Santhosh Pillai,,Builder,11.06597880467643,76.0952977729514,Malappuram,Full Home Interior,2023,5,True,False,Negotiation,Won,1646436
+67,2023-05-25,Instagram,Residential,Divya N,9770065589,Fathima Patel,,Small Business,10.487943411486048,76.23217232412013,Thrissur,Office Cabin,2023,5,True,False,Quotation Sent,Lost,0
+68,2023-05-28,YouTube,Residential,Meera T,9384243914,Kavitha Iyer,Priya Associates,Builder,8.883402721688824,76.58933147361351,Kollam,Office Cabin,2023,5,True,False,Follow-up,Follow-up,0
+69,2023-05-30,Referral,Modular Kitchen,Arun K,9158834845,Fathima Panicker,,Builder,9.520993920010516,76.37610431470152,Alappuzha,Pooja Room,2023,5,True,False,Negotiation,Negotiation,418366
+70,2023-06-01,Facebook,Office Interiors,Priya M,9369629438,Anjali Thomas,Lakshmi Builders,Corporate,9.619582088401007,76.48908584633703,Kottayam,False Ceiling,2023,6,True,False,Won,Site Visit,0
+71,2023-06-03,Google Ads,Modular Kitchen,Suresh L,9444551931,Suma Panicker,Gopal Enterprises,Individual,8.855021862229108,76.56946347915208,Kollam,Pooja Room,2023,6,True,False,Site Visit,Lost,0
+72,2023-06-05,Google Ads,Residential,Rahul S,9762893871,Divya Kumar,Rekha Homes,Builder,11.824503071884537,75.3921464990612,Kannur,Pooja Room,2023,6,True,False,Design Phase,Negotiation,485551
+73,2023-06-07,Facebook,Office Interiors,Divya N,9367131380,Divya Panicker,,Architect Referral,9.95241370458806,76.26484757152328,Kochi,Traditional Living Room,2023,6,True,False,Lost,Won,571727
+74,2023-06-10,Facebook,Office Interiors,Vijay R,9167615317,Divya Sharma,,Individual,11.86015961759862,75.40530980199587,Kannur,Traditional Living Room,2023,6,True,False,Follow-up,Design Phase,0
+75,2023-06-12,WhatsApp,Modular Kitchen,Priya M,9161767845,Smitha Varma,Sreelatha Interiors,Small Business,8.868648133161827,76.60243971410581,Kollam,Bathroom Renovation,2023,6,True,False,Won,Lost,0
+76,2023-06-14,Referral,Office Interiors,Ajith P,9173657758,Vijay Kumar,Shyamala Constructions,Corporate,11.002289746978953,76.03792785885078,Malappuram,Full Home Interior,2023,6,True,False,Follow-up,Site Visit,299151
+77,2023-06-16,Referral,Office Interiors,Sneha B,9161647309,Sabu Hassan,,Small Business,9.59562994067615,76.55584421924698,Kottayam,Traditional Living Room,2023,6,True,False,Follow-up,Won,1582713
+78,2023-06-18,Google Ads,Modular Kitchen,Arun K,9815555735,Vijay Nair,Thomas Properties,Small Business,9.626715073542599,76.527090963164,Kottayam,Bathroom Renovation,2023,6,True,False,Won,Won,596312
+79,2023-06-21,WhatsApp,Residential,Sneha B,9631472497,Santhosh Warrier,,Individual,11.30456316462726,75.74931957923904,Kozhikode,Modular Wardrobe,2023,6,True,False,Lost,Follow-up,0
+80,2023-06-23,Walk-in,Commercial,Divya N,9985444016,Rajan Khan,,Small Business,9.598174495061329,76.54423839985864,Kottayam,Pooja Room,2023,6,True,False,Lost,Quotation Sent,92912
+81,2023-06-25,Google Ads,Residential,Ajith P,9152839391,Babu George,,Builder,9.49954613277399,76.33991136384896,Alappuzha,Pooja Room,2023,6,True,False,Follow-up,Follow-up,243746
+82,2023-06-27,Website,Commercial,Ajith P,9353214051,Sreelatha Pillai,Lakshmi Homes,Small Business,9.550105638548924,76.53263129822403,Kottayam,False Ceiling,2023,6,False,False,Follow-up,Design Phase,271139
+83,2023-06-29,Referral,Commercial,Ajith P,9267237535,Babu Das,,Corporate,8.898087280154261,76.61018983382066,Kollam,Modular Wardrobe,2023,6,True,False,Won,Follow-up,0
+84,2023-07-02,Google Ads,Residential,Rahul S,9669704118,Nisha Krishnan,Thomas Constructions,Corporate,11.246797907896541,75.8132708983818,Kozhikode,False Ceiling,2023,7,True,False,Site Visit,Follow-up,0
+85,2023-07-04,Instagram,Residential,Divya N,9474175950,Suresh Abraham,Asif Interiors,Architect Referral,8.903913528088358,76.6470562715683,Kollam,Commercial Space,2023,7,True,False,Negotiation,Won,1058507
+86,2023-07-06,Referral,Residential,Meera T,9149975039,Anoop Menon,Thomas Interiors,Corporate,8.882072634787654,76.63503888218243,Kollam,Bathroom Renovation,2023,7,True,False,Lost,Site Visit,112488
+87,2023-07-08,Google Ads,Office Interiors,Sneha B,9613361130,Meera Sharma,Sabu Properties,Small Business,8.498129912345037,76.89714013773964,Thiruvananthapuram,Bathroom Renovation,2023,7,True,False,Won,Won,1811987
+88,2023-07-10,IndiaMART,Renovation,Meera T,9122961593,Sabu George,Kavitha Developers,Corporate,11.218296527522838,75.8142853861904,Kozhikode,Pooja Room,2023,7,True,False,Site Visit,Quotation Sent,241773
+89,2023-07-13,WhatsApp,Residential,Priya M,9372280930,Suresh Nair,Santhosh Associates,Individual,8.874691844458889,76.63120129805328,Kollam,Bedroom Design,2023,7,True,False,Design Phase,Quotation Sent,0
+90,2023-07-15,Website,Renovation,Anjali D,9909230850,Rekha Nair,Anjali Properties,Corporate,8.483764483428775,76.95630241660042,Thiruvananthapuram,Commercial Space,2023,7,True,False,Won,Design Phase,228961
+91,2023-07-17,Instagram,Commercial,Suresh L,9635213263,Nisha Abraham,,Builder,8.4917896950824,76.92289828404039,Thiruvananthapuram,Bathroom Renovation,2023,7,False,False,Lost,Follow-up,407751
+92,2023-07-19,Instagram,Residential,Suresh L,9807875524,Gopal Patel,Arun LLP,Individual,11.307533615857956,75.8183279556157,Kozhikode,Traditional Living Room,2023,7,True,False,Won,Negotiation,0
+93,2023-07-21,Website,Residential,Meera T,9591487060,Santhosh Hassan,Thomas Builders,Architect Referral,11.86891035569066,75.3929371600235,Kannur,Pooja Room,2023,7,True,False,Follow-up,Site Visit,0
+94,2023-07-24,Referral,Commercial,Anjali D,9754273660,Rajan Nair,,Builder,11.054187176650501,76.03235904665291,Malappuram,False Ceiling,2023,7,False,False,Won,Won,1682748
+95,2023-07-26,Google Ads,Office Interiors,Anjali D,9473389449,Priya Namboothiri,,Small Business,9.535461852873722,76.32957780344063,Alappuzha,Modular Wardrobe,2023,7,True,False,Lost,Negotiation,0
+96,2023-07-28,Referral,Modular Kitchen,Arun K,9703844946,Mohammed Nair,Kavitha Builders,Small Business,11.100556890049068,76.10973803619602,Malappuram,False Ceiling,2023,7,True,False,Negotiation,Won,414716
+97,2023-07-30,WhatsApp,Residential,Priya M,9447679256,Santhosh Khan,Fathima Developers,Small Business,9.599871444934468,76.47691967016974,Kottayam,Office Cabin,2023,7,True,False,Follow-up,Follow-up,63251
+98,2023-08-01,Instagram,Residential,Divya N,9397762883,Manoj Das,,Builder,9.529347382104419,76.3849416619642,Alappuzha,Bedroom Design,2023,8,True,False,Lost,Won,1706447
+99,2023-08-04,Google Ads,Commercial,Anjali D,9694089500,Smitha Hassan,,Builder,9.574294102433667,76.54011625683195,Kottayam,Bathroom Renovation,2023,8,False,False,Lost,Won,294697
+100,2023-08-06,Walk-in,Residential,Vijay R,9128905854,Suresh Varma,,Builder,8.873774395744729,76.62723759776433,Kollam,Full Home Interior,2023,8,False,False,Follow-up,Lost,0
+101,2023-08-08,Facebook,Residential,Suresh L,9925895594,Anjali Pillai,,Individual,9.921470372099456,76.2443559256488,Kochi,Modern Kitchen,2023,8,True,False,Won,Lost,0
+102,2023-08-10,Facebook,Residential,Vijay R,9856452801,Santhosh Varma,Nisha Interiors,Individual,11.276050726267366,75.75527917887392,Kozhikode,Bedroom Design,2023,8,True,False,Won,Negotiation,20207
+103,2023-08-12,Google Ads,Office Interiors,Priya M,9990763337,Santhosh Varma,,Small Business,9.516319168925511,76.38300582194887,Alappuzha,Pooja Room,2023,8,True,False,Quotation Sent,Won,1126333
+104,2023-08-15,Facebook,Renovation,Anjali D,9694575932,Meera Iyer,Kavitha Associates,Corporate,9.479623943464945,76.31862724542341,Alappuzha,Bathroom Renovation,2023,8,True,False,Won,Follow-up,0
+105,2023-08-17,Walk-in,Commercial,Sneha B,9697990314,Abdul Hassan,Divya Properties,Small Business,8.856520992413664,76.64165052967189,Kollam,Modular Wardrobe,2023,8,True,True,Negotiation,Won,504623
+106,2023-08-19,Referral,Renovation,Suresh L,9438615960,Santhosh Joseph,,Architect Referral,11.88773962564655,75.35971217982072,Kannur,Bathroom Renovation,2023,8,True,False,Design Phase,Follow-up,0
+107,2023-08-21,Facebook,Residential,Arun K,9398433583,Vijay Joseph,Thankam Constructions,Individual,8.486932586218877,76.90052540707848,Thiruvananthapuram,Modern Kitchen,2023,8,False,False,Lost,Negotiation,0
+108,2023-08-23,JustDial,Commercial,Arun K,9515975634,Arun Krishnan,,Builder,8.901049250822933,76.56517152976953,Kollam,Modular Wardrobe,2023,8,True,False,Lost,Follow-up,51340
+109,2023-08-25,JustDial,Residential,Ajith P,9608570454,Rajan George,Lakshmi Group,Individual,10.80604221280563,76.65922573370152,Palakkad,False Ceiling,2023,8,True,False,Follow-up,Site Visit,455450
+110,2023-08-28,JustDial,Modular Kitchen,Rahul S,9865286295,Lakshmi Nair,,Builder,8.544161149639447,76.98417788185489,Thiruvananthapuram,Modular Wardrobe,2023,8,True,False,Quotation Sent,Lost,0
+111,2023-08-30,Facebook,Renovation,Anjali D,9654599050,Gopal Panicker,Rekha Enterprises,Architect Referral,11.28414721106596,75.76731361938091,Kozhikode,Bedroom Design,2023,8,True,False,Design Phase,Site Visit,378455
+112,2023-09-01,Instagram,Modular Kitchen,Priya M,9869398381,Priya Panicker,,Architect Referral,8.561385942156567,76.9223192333993,Thiruvananthapuram,False Ceiling,2023,9,True,False,Site Visit,Lost,0
+113,2023-09-03,YouTube,Commercial,Suresh L,9621778145,Rajesh Menon,Deepa Homes,Individual,11.874495899196479,75.35480916178494,Kannur,Bathroom Renovation,2023,9,True,False,Won,Follow-up,85320
+114,2023-09-05,Walk-in,Modular Kitchen,Rahul S,9494730166,Rekha Pillai,,Builder,8.547124918952958,76.93865438373048,Thiruvananthapuram,Pooja Room,2023,9,True,False,Negotiation,Negotiation,438373
+115,2023-09-08,Google Ads,Residential,Priya M,9609069851,Sabu Sharma,,Architect Referral,11.270717273536585,75.77446648834243,Kozhikode,Commercial Space,2023,9,True,False,Lost,Won,1014211
+116,2023-09-10,Google Ads,Office Interiors,Meera T,9218873796,Kavitha Nair,Sreelatha Enterprises,Small Business,11.843163993979768,75.40839146267271,Kannur,Pooja Room,2023,9,True,False,Follow-up,Negotiation,283363
+117,2023-09-12,Instagram,Commercial,Anjali D,9671542718,Rekha Thomas,,Small Business,11.003568964486941,76.07165207917235,Malappuram,Bathroom Renovation,2023,9,True,False,Won,Negotiation,0
+118,2023-09-14,JustDial,Commercial,Divya N,9929183636,Suresh Hassan,Arun Enterprises,Builder,9.476554138567694,76.33957578381886,Alappuzha,Modern Kitchen,2023,9,False,False,Won,Lost,0
+119,2023-09-16,Referral,Modular Kitchen,Divya N,9742135939,Fathima Abraham,Asif Enterprises,Individual,9.492403370633763,76.30263715947206,Alappuzha,Commercial Space,2023,9,True,True,Site Visit,Won,995161
+120,2023-09-19,Referral,Modular Kitchen,Anjali D,9576935925,Manoj Abraham,Vijay Homes,Architect Referral,9.603310594442865,76.57047395409104,Kottayam,Bathroom Renovation,2023,9,True,False,Follow-up,Won,856479
+121,2023-09-21,Google Ads,Residential,Ajith P,9333706608,Suresh Joseph,,Individual,11.08599593305032,76.04609728908689,Malappuram,Full Home Interior,2023,9,True,False,Lost,Design Phase,241615
+122,2023-09-23,Website,Modular Kitchen,Ajith P,9915750821,Priya Patel,Thomas Enterprises,Small Business,11.020624571670616,76.02843640674597,Malappuram,Bedroom Design,2023,9,True,False,Lost,Negotiation,95693
+123,2023-09-25,WhatsApp,Residential,Divya N,9500111512,Abdul Kurup,Shyamala Homes,Architect Referral,8.486654978989849,76.95291462489752,Thiruvananthapuram,Full Home Interior,2023,9,False,False,Quotation Sent,Won,2285004
+124,2023-09-27,Instagram,Modular Kitchen,Sneha B,9117196045,Anjali Menon,Nisha Homes,Individual,9.544447994747433,76.34833663701569,Alappuzha,False Ceiling,2023,9,True,False,Site Visit,Lost,0
+125,2023-09-30,Walk-in,Office Interiors,Suresh L,9329127882,Anjali Sharma,Arun Group,Corporate,11.219604455937642,75.77191456539927,Kozhikode,Office Cabin,2023,9,True,False,Lost,Follow-up,299194
+126,2023-10-02,IndiaMART,Office Interiors,Divya N,9955560479,Priya Sharma,Arun Interiors,Builder,10.525449107010719,76.20661922338806,Thrissur,Bathroom Renovation,2023,10,True,True,Won,Quotation Sent,340810
+127,2023-10-04,Facebook,Modular Kitchen,Sneha B,9979456138,Thankam Abraham,Rajesh Builders,Builder,10.53615637287933,76.24290639210464,Thrissur,Traditional Living Room,2023,10,True,False,Lost,Won,103010
+128,2023-10-06,Referral,Commercial,Rahul S,9455760316,Sabu Krishnan,Divya LLP,Corporate,11.878637442090744,75.33997126400998,Kannur,Traditional Living Room,2023,10,True,False,Design Phase,Won,1661029
+129,2023-10-08,Facebook,Residential,Sneha B,9850701457,Priya Warrier,Priya LLP,Small Business,9.456703215703294,76.3708253318945,Alappuzha,Modular Wardrobe,2023,10,True,False,Follow-up,Quotation Sent,0
+130,2023-10-11,Walk-in,Office Interiors,Rahul S,9582888858,Anoop Das,,Architect Referral,9.453802691400362,76.3536747113895,Alappuzha,Pooja Room,2023,10,True,False,Follow-up,Won,230680
+131,2023-10-13,Referral,Residential,Priya M,9862492470,Arun Abraham,,Builder,10.488148342746102,76.20629697737795,Thrissur,Pooja Room,2023,10,True,False,Follow-up,Won,1660000
+132,2023-10-15,Website,Commercial,Vijay R,9588086197,Smitha Iyer,Mohammed Enterprises,Corporate,9.506658768387263,76.3346028616584,Alappuzha,Pooja Room,2023,10,True,False,Lost,Design Phase,0
+133,2023-10-17,Walk-in,Residential,Priya M,9628807633,Abdul Hassan,Vijay Constructions,Corporate,8.528534488763432,76.91226472071861,Thiruvananthapuram,Full Home Interior,2023,10,True,False,Site Visit,Negotiation,22076
+134,2023-10-19,Instagram,Residential,Divya N,9572718199,Suresh Kumar,Vijay Builders,Small Business,10.760074079203674,76.6800114332697,Palakkad,Bedroom Design,2023,10,True,False,Follow-up,Won,1778719
+135,2023-10-22,JustDial,Modular Kitchen,Rahul S,9923310806,Meera Hassan,Deepa Builders,Small Business,9.94497741418456,76.26858747423053,Kochi,Bathroom Renovation,2023,10,True,False,Won,Won,953057
+136,2023-10-24,Referral,Residential,Divya N,9851821898,Meera Hassan,Shyamala Constructions,Individual,11.083006750205564,76.05318545427498,Malappuram,Modern Kitchen,2023,10,True,False,Won,Won,1800652
+137,2023-10-26,Google Ads,Modular Kitchen,Anjali D,9818792980,Smitha Warrier,Fathima Interiors,Builder,9.545757895984659,76.5318050115761,Kottayam,Modular Wardrobe,2023,10,True,False,Follow-up,Won,1673162
+138,2023-10-28,Website,Residential,Suresh L,9665404587,Suma Varma,Rekha LLP,Individual,11.874312994354804,75.41997344520513,Kannur,False Ceiling,2023,10,True,False,Design Phase,Quotation Sent,0
+139,2023-10-30,Walk-in,Residential,Arun K,9101543812,Priya Das,Vijay LLP,Corporate,10.805631041210269,76.64832622796565,Palakkad,Commercial Space,2023,10,True,False,Lost,Lost,0
+140,2023-11-02,Facebook,Commercial,Divya N,9333606486,Santhosh Menon,Nisha Enterprises,Architect Referral,10.502831192706969,76.25646914007785,Thrissur,False Ceiling,2023,11,True,False,Quotation Sent,Site Visit,79835
+141,2023-11-04,WhatsApp,Residential,Suresh L,9919840424,Rajan Patel,Kavitha Group,Architect Referral,11.031777090529316,76.05560168399246,Malappuram,Bathroom Renovation,2023,11,True,False,Site Visit,Quotation Sent,0
+142,2023-11-06,JustDial,Residential,Sneha B,9719577914,Asif Khan,Divya Properties,Small Business,9.50946379029894,76.2942732706925,Alappuzha,Office Cabin,2023,11,True,False,Won,Lost,0
+143,2023-11-08,Facebook,Modular Kitchen,Priya M,9946691838,Asif Krishnan,Lakshmi Developers,Architect Referral,9.631393529344374,76.49262421063685,Kottayam,Pooja Room,2023,11,True,False,Won,Won,1352970
+144,2023-11-10,YouTube,Residential,Sneha B,9738399464,Thomas Khan,Santhosh Constructions,Architect Referral,9.52909244203029,76.33066951433277,Alappuzha,Commercial Space,2023,11,True,False,Won,Follow-up,329055
+145,2023-11-12,Google Ads,Office Interiors,Arun K,9399791541,Asif Khan,,Architect Referral,11.267113021909958,75.75236349285946,Kozhikode,Full Home Interior,2023,11,True,False,Site Visit,Quotation Sent,113088
+146,2023-11-15,Facebook,Residential,Rahul S,9208612041,Deepa Kumar,,Corporate,11.281822171775726,75.73042270382183,Kozhikode,Bathroom Renovation,2023,11,True,False,Won,Site Visit,0
+147,2023-11-17,Google Ads,Residential,Anjali D,9334881941,Deepa Kumar,,Architect Referral,9.57808224702078,76.56370015377475,Kottayam,Office Cabin,2023,11,True,False,Lost,Won,1863948
+148,2023-11-19,JustDial,Modular Kitchen,Suresh L,9770902098,Suma Pillai,Suresh Developers,Architect Referral,9.605696552809876,76.55658794112308,Kottayam,Full Home Interior,2023,11,True,False,Follow-up,Negotiation,0
+149,2023-11-21,Website,Residential,Anjali D,9683859263,Mohammed Sharma,Mohammed LLP,Architect Referral,10.524218159112756,76.23862922314869,Thrissur,Office Cabin,2023,11,True,False,Site Visit,Follow-up,0
+150,2023-11-23,Google Ads,Residential,Vijay R,9358808646,Babu Krishnan,Babu Enterprises,Individual,9.560593613645755,76.4889814595646,Kottayam,Pooja Room,2023,11,True,True,Won,Quotation Sent,0
+151,2023-11-26,Instagram,Commercial,Divya N,9526499331,Abdul Varma,,Corporate,8.544273827387727,76.898636357621,Thiruvananthapuram,Full Home Interior,2023,11,True,False,Lost,Won,267767
+152,2023-11-28,Referral,Residential,Rahul S,9803633600,Nisha Iyer,,Small Business,9.503746463734883,76.29556047494725,Alappuzha,Bedroom Design,2023,11,True,True,Follow-up,Follow-up,71394
+153,2023-11-30,Google Ads,Office Interiors,Vijay R,9870328206,Babu Das,Thankam Associates,Individual,10.77256215819536,76.67720291887728,Palakkad,Traditional Living Room,2023,11,True,False,Follow-up,Quotation Sent,0
+154,2023-12-02,JustDial,Residential,Meera T,9976888679,Arun Varma,Babu Developers,Builder,8.934333919007864,76.65698079606878,Kollam,False Ceiling,2023,12,True,False,Site Visit,Lost,0
+155,2023-12-04,WhatsApp,Office Interiors,Divya N,9981065931,Vijay Thomas,Lakshmi Interiors,Corporate,9.543693411782673,76.5152535820913,Kottayam,Bedroom Design,2023,12,True,False,Won,Follow-up,0
+156,2023-12-07,Referral,Office Interiors,Sneha B,9281858709,Divya Joseph,Nisha Homes,Corporate,11.85607731512495,75.3323140671996,Kannur,Commercial Space,2023,12,True,False,Site Visit,Won,1678782
+157,2023-12-09,IndiaMART,Commercial,Priya M,9981206997,Priya Hassan,Vijay Interiors,Builder,11.214488139777766,75.78163928207321,Kozhikode,Modular Wardrobe,2023,12,True,False,Negotiation,Won,1476360
+158,2023-12-11,Instagram,Renovation,Suresh L,9442421233,Sreelatha George,,Builder,8.550752731622163,76.92148319074586,Thiruvananthapuram,Traditional Living Room,2023,12,True,False,Follow-up,Lost,0
+159,2023-12-13,YouTube,Commercial,Arun K,9820526254,Sabu Namboothiri,Lakshmi Builders,Builder,11.07121074541138,76.05858249243501,Malappuram,Bedroom Design,2023,12,True,False,Negotiation,Design Phase,465910
+160,2023-12-15,Website,Renovation,Arun K,9971496400,Divya Abraham,Lakshmi Enterprises,Small Business,8.876335221873632,76.62623306241557,Kollam,Bathroom Renovation,2023,12,True,False,Lost,Lost,0
+161,2023-12-18,Website,Residential,Sneha B,9475238748,Anoop Abraham,Abdul Properties,Architect Referral,10.804266290220706,76.67667181132622,Palakkad,Office Cabin,2023,12,True,False,Won,Follow-up,376590
+162,2023-12-20,Google Ads,Modular Kitchen,Ajith P,9953600685,Suma Patel,,Corporate,8.882793722619596,76.5751603598873,Kollam,Commercial Space,2023,12,True,False,Negotiation,Negotiation,104702
+163,2023-12-22,JustDial,Commercial,Arun K,9828978061,Fathima Hassan,Mohammed Builders,Architect Referral,9.617225379142242,76.47575902308064,Kottayam,Bathroom Renovation,2023,12,True,False,Follow-up,Won,405752
+164,2023-12-24,Instagram,Commercial,Suresh L,9360296113,Divya Kumar,Thomas Homes,Architect Referral,10.52301836627367,76.26383303026857,Thrissur,Traditional Living Room,2023,12,True,True,Negotiation,Follow-up,124310
+165,2023-12-26,Google Ads,Modular Kitchen,Sneha B,9182226579,Arun Panicker,,Builder,11.250027972783167,75.75367283489156,Kozhikode,Office Cabin,2023,12,True,False,Lost,Site Visit,0
+166,2023-12-29,Google Ads,Modular Kitchen,Rahul S,9896266929,Gopal Pillai,Fathima Constructions,Small Business,11.302272991548831,75.73578305249085,Kozhikode,Commercial Space,2023,12,True,False,Quotation Sent,Quotation Sent,44622
+167,2023-12-31,Referral,Residential,Arun K,9224994671,Babu Warrier,Sreelatha Builders,Individual,11.02608790998907,76.0400875329096,Malappuram,Modular Wardrobe,2023,12,True,False,Follow-up,Negotiation,270440
+168,2024-01-02,Referral,Residential,Anjali D,9207229088,Thomas Abraham,,Small Business,10.489644733999656,76.16829578463485,Thrissur,Traditional Living Room,2024,1,True,False,Won,Negotiation,405813
+169,2024-01-04,Website,Modular Kitchen,Sneha B,9571146870,Suma Joseph,Rajan Group,Architect Referral,9.506554311325946,76.32798108946173,Alappuzha,Commercial Space,2024,1,True,False,Lost,Won,746314
+170,2024-01-06,JustDial,Modular Kitchen,Suresh L,9836304186,Divya Joseph,,Small Business,9.978132181228418,76.29754017844513,Kochi,Bedroom Design,2024,1,True,False,Site Visit,Design Phase,79519
+171,2024-01-09,Google Ads,Renovation,Anjali D,9957445418,Suma Menon,Thomas Developers,Builder,8.51188392137272,76.92072444497578,Thiruvananthapuram,Commercial Space,2024,1,True,False,Site Visit,Won,1010655
+172,2024-01-11,Walk-in,Office Interiors,Divya N,9974365134,Rajan Joseph,Shyamala Builders,Individual,11.21500367636288,75.77481834068784,Kozhikode,Traditional Living Room,2024,1,True,False,Follow-up,Site Visit,0
+173,2024-01-13,Google Ads,Renovation,Divya N,9478622731,Sabu Krishnan,,Builder,11.858430526730956,75.38795867735675,Kannur,Pooja Room,2024,1,True,False,Quotation Sent,Won,2191924
+174,2024-01-15,WhatsApp,Modular Kitchen,Arun K,9979920423,Rajesh Pillai,Anoop Group,Individual,11.259393165431957,75.781289407007,Kozhikode,Bedroom Design,2024,1,True,False,Lost,Design Phase,0
+175,2024-01-17,WhatsApp,Residential,Anjali D,9326821237,Thomas Joseph,Mohammed Associates,Architect Referral,8.859392300663222,76.65024456860212,Kollam,Bathroom Renovation,2024,1,True,False,Lost,Negotiation,0
+176,2024-01-20,Referral,Residential,Priya M,9897577747,Asif Abraham,,Individual,11.27461022180565,75.81700356750457,Kozhikode,Traditional Living Room,2024,1,True,False,Quotation Sent,Site Visit,317015
+177,2024-01-22,Website,Office Interiors,Divya N,9788109733,Smitha George,Kavitha Developers,Individual,11.308574938901021,75.73139106954912,Kozhikode,Pooja Room,2024,1,True,False,Quotation Sent,Won,1911380
+178,2024-01-24,Facebook,Modular Kitchen,Priya M,9254339970,Nisha Das,Manoj LLP,Individual,9.926373947598146,76.29510463064832,Kochi,Modern Kitchen,2024,1,True,False,Negotiation,Lost,0
+179,2024-01-26,Referral,Residential,Rahul S,9697138587,Mohammed Krishnan,,Small Business,9.916672855673022,76.26337336002418,Kochi,Modular Wardrobe,2024,1,True,False,Quotation Sent,Negotiation,0
+180,2024-01-28,WhatsApp,Commercial,Sneha B,9974176601,Thomas Varma,,Small Business,10.776770416683446,76.70368405413036,Palakkad,Pooja Room,2024,1,True,False,Won,Site Visit,0
+181,2024-01-30,Instagram,Renovation,Vijay R,9752350557,Smitha Iyer,Meera Group,Architect Referral,9.45961461783952,76.33712320758755,Alappuzha,Modern Kitchen,2024,1,True,False,Quotation Sent,Won,1708069
+182,2024-02-02,Instagram,Commercial,Suresh L,9665284876,Rajesh Hassan,Shyamala Developers,Individual,11.912827360142622,75.41908959453883,Kannur,False Ceiling,2024,2,True,True,Lost,Design Phase,412993
+183,2024-02-04,Referral,Commercial,Sneha B,9760097996,Rajesh Thomas,Arun Group,Corporate,11.250282565552135,75.80585693612058,Kozhikode,Office Cabin,2024,2,True,True,Won,Quotation Sent,0
+184,2024-02-06,WhatsApp,Commercial,Suresh L,9462923841,Anoop Hassan,,Architect Referral,11.247527441142484,75.75526048846133,Kozhikode,Pooja Room,2024,2,True,False,Won,Won,70968
+185,2024-02-08,Facebook,Residential,Anjali D,9411845668,Rajan Warrier,,Individual,8.540069027293049,76.9404394979287,Thiruvananthapuram,Full Home Interior,2024,2,True,True,Lost,Quotation Sent,457185
+186,2024-02-10,Google Ads,Commercial,Rahul S,9459883696,Anoop Kumar,,Individual,9.925403342093112,76.31651356394786,Kochi,Modular Wardrobe,2024,2,True,False,Lost,Follow-up,0
+187,2024-02-13,Website,Commercial,Meera T,9216017893,Meera Pillai,Suresh Associates,Small Business,11.889323346880785,75.4061530607752,Kannur,Pooja Room,2024,2,True,False,Lost,Follow-up,444010
+188,2024-02-15,WhatsApp,Residential,Arun K,9712366145,Vijay George,Suma Developers,Architect Referral,11.007144629013078,76.03083668937913,Malappuram,Modern Kitchen,2024,2,False,False,Won,Lost,0
+189,2024-02-17,Google Ads,Office Interiors,Suresh L,9835760163,Nisha Abraham,Thomas Enterprises,Individual,10.818072334372223,76.675437199681,Palakkad,Full Home Interior,2024,2,True,False,Lost,Follow-up,0
+190,2024-02-19,Facebook,Commercial,Suresh L,9437403317,Lakshmi Abraham,,Individual,9.54215039528794,76.32335795858708,Alappuzha,Modular Wardrobe,2024,2,True,False,Follow-up,Site Visit,430919
+191,2024-02-21,Google Ads,Office Interiors,Anjali D,9457301785,Rekha Menon,,Architect Referral,10.542476538615938,76.16509822618804,Thrissur,Full Home Interior,2024,2,True,False,Lost,Lost,0
+192,2024-02-24,Facebook,Office Interiors,Priya M,9498745543,Thomas Panicker,,Corporate,9.543556592885881,76.3291480969027,Alappuzha,Bedroom Design,2024,2,True,False,Lost,Negotiation,0
+193,2024-02-26,Instagram,Residential,Sneha B,9507628651,Deepa Hassan,,Architect Referral,8.858343231436997,76.5875754421725,Kollam,Modern Kitchen,2024,2,True,False,Site Visit,Negotiation,459732
+194,2024-02-28,Walk-in,Modular Kitchen,Meera T,9550647975,Kavitha Krishnan,Shyamala LLP,Architect Referral,11.256541618948036,75.81228692705204,Kozhikode,Commercial Space,2024,2,True,False,Quotation Sent,Negotiation,0
+195,2024-03-01,Website,Commercial,Ajith P,9504082474,Meera Namboothiri,,Corporate,10.796880673394545,76.63853306088457,Palakkad,Bedroom Design,2024,3,True,False,Site Visit,Won,796470
+196,2024-03-03,Website,Office Interiors,Arun K,9323292565,Suresh Das,,Architect Referral,8.901373664742119,76.64685236939538,Kollam,Modular Wardrobe,2024,3,True,False,Lost,Quotation Sent,370029
+197,2024-03-06,Instagram,Residential,Vijay R,9970333075,Shyamala Menon,Santhosh Associates,Individual,11.864646177908904,75.32045979388349,Kannur,Modular Wardrobe,2024,3,True,False,Site Visit,Lost,0
+198,2024-03-08,WhatsApp,Modular Kitchen,Ajith P,9236338439,Sabu George,,Architect Referral,10.511408440936625,76.1951819150026,Thrissur,Traditional Living Room,2024,3,True,True,Won,Won,1199164
+199,2024-03-10,Referral,Modular Kitchen,Sneha B,9385733916,Anjali Varma,Kavitha LLP,Corporate,9.893882402255043,76.24141652143078,Kochi,Modern Kitchen,2024,3,True,False,Won,Won,1622762
+200,2024-03-12,YouTube,Residential,Arun K,9844468775,Anoop Nair,Nisha Developers,Builder,10.775874245056228,76.62815673610686,Palakkad,False Ceiling,2024,3,True,True,Lost,Follow-up,355653
+201,2024-03-14,Website,Residential,Suresh L,9463205533,Santhosh Das,Thankam Builders,Architect Referral,10.752966081510548,76.61161866197654,Palakkad,False Ceiling,2024,3,True,False,Site Visit,Quotation Sent,0
+202,2024-03-17,Google Ads,Modular Kitchen,Vijay R,9811556816,Anjali Khan,,Small Business,11.282236567649223,75.74911242704106,Kozhikode,Modular Wardrobe,2024,3,True,True,Won,Lost,0
+203,2024-03-19,Website,Modular Kitchen,Priya M,9558904191,Lakshmi Patel,Rajesh Developers,Individual,9.562483093549458,76.52775495698856,Kottayam,False Ceiling,2024,3,True,False,Won,Site Visit,0
+204,2024-03-21,Facebook,Residential,Meera T,9599566931,Thankam Namboothiri,Nisha Constructions,Individual,10.742556530528454,76.63393610728377,Palakkad,Office Cabin,2024,3,False,False,Won,Won,1361414
+205,2024-03-23,Website,Modular Kitchen,Priya M,9662524787,Manoj Pillai,Shyamala Constructions,Small Business,8.529336613781725,76.92833947823291,Thiruvananthapuram,Traditional Living Room,2024,3,True,False,Quotation Sent,Follow-up,0
+206,2024-03-25,Google Ads,Commercial,Rahul S,9670864783,Abdul Panicker,,Small Business,10.53712297327194,76.20208668803471,Thrissur,Modular Wardrobe,2024,3,True,False,Negotiation,Design Phase,467301
+207,2024-03-28,Google Ads,Modular Kitchen,Anjali D,9918963373,Suresh Kumar,,Architect Referral,10.56479130612805,76.25199049249998,Thrissur,False Ceiling,2024,3,True,False,Lost,Site Visit,0
+208,2024-03-30,WhatsApp,Residential,Arun K,9783094845,Suma Das,Meera Constructions,Small Business,8.531798161241769,76.97712989990104,Thiruvananthapuram,Modern Kitchen,2024,3,True,False,Follow-up,Won,580992
+209,2024-04-01,Facebook,Office Interiors,Priya M,9515651562,Priya Warrier,,Builder,11.035548085372344,76.0703956971656,Malappuram,Pooja Room,2024,4,True,False,Follow-up,Follow-up,50136
+210,2024-04-03,WhatsApp,Residential,Ajith P,9106767567,Smitha Patel,,Corporate,8.554401188152633,76.91961559503156,Thiruvananthapuram,Commercial Space,2024,4,True,False,Negotiation,Won,97361
+211,2024-04-05,Facebook,Commercial,Anjali D,9585317676,Lakshmi Abraham,Babu Enterprises,Small Business,8.528127889318743,76.89728007040023,Thiruvananthapuram,Bedroom Design,2024,4,True,False,Won,Lost,0
+212,2024-04-08,Website,Residential,Priya M,9684516846,Anjali Hassan,Rekha Builders,Small Business,10.485528028463118,76.2597402879382,Thrissur,Bedroom Design,2024,4,True,False,Quotation Sent,Site Visit,330991
+213,2024-04-10,Website,Residential,Divya N,9887927991,Thankam Das,Manoj LLP,Builder,9.504685056031326,76.29482269449004,Alappuzha,Office Cabin,2024,4,True,False,Lost,Site Visit,0
+214,2024-04-12,Referral,Commercial,Rahul S,9944620719,Abdul Menon,Thankam Builders,Individual,10.568401854542167,76.19416502775682,Thrissur,Full Home Interior,2024,4,True,True,Negotiation,Won,64677
+215,2024-04-14,Facebook,Residential,Sneha B,9638765466,Thomas Patel,,Individual,9.581231262549823,76.502006620117,Kottayam,Modern Kitchen,2024,4,True,False,Won,Design Phase,0
+216,2024-04-16,Facebook,Office Interiors,Meera T,9315063766,Deepa Krishnan,Thomas Developers,Architect Referral,11.238432580189981,75.76244012861402,Kozhikode,Full Home Interior,2024,4,True,False,Lost,Follow-up,0
+217,2024-04-18,Google Ads,Residential,Rahul S,9256850263,Rajan Thomas,Sabu Developers,Builder,8.857546945701802,76.58052868432723,Kollam,Traditional Living Room,2024,4,True,False,Lost,Lost,0
+218,2024-04-21,Facebook,Commercial,Anjali D,9678030847,Suresh Das,Lakshmi Homes,Corporate,9.463244552193537,76.36711614309237,Alappuzha,Commercial Space,2024,4,True,False,Follow-up,Follow-up,0
+219,2024-04-23,Website,Residential,Divya N,9326088446,Divya Kumar,Fathima Associates,Corporate,9.924477148434182,76.2295497861966,Kochi,Traditional Living Room,2024,4,True,False,Won,Negotiation,153115
+220,2024-04-25,IndiaMART,Residential,Arun K,9637818184,Abdul Warrier,Vijay LLP,Builder,8.902767982416153,76.6275906659153,Kollam,Modular Wardrobe,2024,4,True,False,Site Visit,Follow-up,0
+221,2024-04-27,JustDial,Residential,Ajith P,9961368498,Arun Warrier,,Corporate,11.21686154051696,75.74278460267058,Kozhikode,Modern Kitchen,2024,4,True,False,Won,Follow-up,0
+222,2024-04-29,Walk-in,Commercial,Meera T,9228960723,Gopal Thomas,,Individual,9.635556858902516,76.4792535637593,Kottayam,Modular Wardrobe,2024,4,True,False,Negotiation,Follow-up,0
+223,2024-05-02,Walk-in,Commercial,Meera T,9732931561,Thomas Nair,Vijay Homes,Corporate,9.617113361744519,76.56314295036859,Kottayam,Bathroom Renovation,2024,5,True,False,Site Visit,Won,1459277
+224,2024-05-04,Website,Commercial,Rahul S,9921248464,Divya Joseph,Fathima Group,Corporate,9.939862391828367,76.23631287663187,Kochi,False Ceiling,2024,5,True,False,Follow-up,Site Visit,0
+225,2024-05-06,Facebook,Commercial,Anjali D,9626694126,Anjali Varma,,Builder,9.5309438670939,76.37092501545598,Alappuzha,Bedroom Design,2024,5,True,False,Site Visit,Follow-up,0
+226,2024-05-08,JustDial,Modular Kitchen,Arun K,9542551518,Thankam Patel,,Builder,11.009018675681212,76.07556308711071,Malappuram,Pooja Room,2024,5,True,False,Negotiation,Won,2343316
+227,2024-05-10,Website,Residential,Suresh L,9611064888,Lakshmi George,,Corporate,8.521783887773314,76.89438565196087,Thiruvananthapuram,Modular Wardrobe,2024,5,True,False,Lost,Site Visit,0
+228,2024-05-13,Referral,Commercial,Divya N,9919365070,Asif Pillai,Anjali Interiors,Small Business,9.511109312686168,76.38434481914382,Alappuzha,Full Home Interior,2024,5,False,False,Site Visit,Design Phase,0
+229,2024-05-15,Google Ads,Renovation,Suresh L,9518277982,Arun Das,Anjali Builders,Builder,11.08386529061183,76.0457961166992,Malappuram,Bathroom Renovation,2024,5,True,False,Lost,Design Phase,0
+230,2024-05-17,Instagram,Commercial,Ajith P,9211289204,Nisha Iyer,Vijay Constructions,Architect Referral,9.619946956004927,76.55816453453527,Kottayam,Bedroom Design,2024,5,True,False,Follow-up,Lost,0
+231,2024-05-19,Instagram,Modular Kitchen,Arun K,9367980509,Suresh Iyer,Asif Homes,Architect Referral,10.50530692497134,76.18128100057845,Thrissur,Modular Wardrobe,2024,5,True,False,Site Visit,Won,891618
+232,2024-05-21,WhatsApp,Residential,Arun K,9649484909,Kavitha Menon,,Individual,11.30288801695592,75.81579428821419,Kozhikode,Bathroom Renovation,2024,5,True,False,Lost,Follow-up,0
+233,2024-05-24,Referral,Office Interiors,Divya N,9466270739,Rajan Panicker,Anoop Associates,Corporate,9.893634584143088,76.21862288129053,Kochi,Bathroom Renovation,2024,5,True,False,Lost,Won,1846929
+234,2024-05-26,Instagram,Office Interiors,Vijay R,9518789755,Priya Warrier,,Small Business,11.296313361862117,75.78157804565694,Kozhikode,Modern Kitchen,2024,5,True,False,Follow-up,Design Phase,395289
+235,2024-05-28,YouTube,Commercial,Suresh L,9387833830,Arun Varma,Rajesh Associates,Individual,11.921594024960461,75.39734425794217,Kannur,Traditional Living Room,2024,5,True,False,Site Visit,Won,584820
+236,2024-05-30,Google Ads,Renovation,Priya M,9896259636,Vijay Hassan,Babu Group,Corporate,11.842215352322262,75.41387955174928,Kannur,Bathroom Renovation,2024,5,True,False,Design Phase,Won,2357278
+237,2024-06-01,Instagram,Residential,Meera T,9726900235,Vijay Patel,Gopal Properties,Builder,9.52030660642038,76.37972021362066,Alappuzha,Office Cabin,2024,6,True,False,Follow-up,Lost,0
+238,2024-06-04,Google Ads,Residential,Vijay R,9387650736,Thomas Das,,Architect Referral,9.5456285518778,76.55416248695477,Kottayam,Traditional Living Room,2024,6,True,False,Negotiation,Lost,0
+239,2024-06-06,Walk-in,Office Interiors,Priya M,9827174928,Manoj Pillai,,Small Business,9.582142282513916,76.56101913496613,Kottayam,Bedroom Design,2024,6,True,True,Quotation Sent,Site Visit,0
+240,2024-06-08,JustDial,Office Interiors,Anjali D,9540437823,Thankam Hassan,Sreelatha LLP,Architect Referral,8.525728329919769,76.9065219685837,Thiruvananthapuram,Bedroom Design,2024,6,True,False,Won,Lost,0
+241,2024-06-10,Facebook,Residential,Divya N,9709426217,Suresh Thomas,Vijay Properties,Builder,8.532164522590964,76.91501842957118,Thiruvananthapuram,Bedroom Design,2024,6,False,False,Won,Won,153021
+242,2024-06-12,WhatsApp,Residential,Anjali D,9907304541,Nisha Joseph,Deepa Builders,Corporate,8.567693724824856,76.9154968524921,Thiruvananthapuram,Bedroom Design,2024,6,True,False,Negotiation,Won,2061562
+243,2024-06-15,Facebook,Residential,Meera T,9340739228,Santhosh Patel,Santhosh LLP,Builder,10.54482506872942,76.20210539310017,Thrissur,Office Cabin,2024,6,False,False,Quotation Sent,Follow-up,10209
+244,2024-06-17,JustDial,Residential,Sneha B,9465516690,Vijay Menon,,Builder,8.891327795121924,76.60343206703851,Kollam,Modular Wardrobe,2024,6,True,False,Quotation Sent,Won,1303790
+245,2024-06-19,Walk-in,Office Interiors,Priya M,9322810605,Kavitha Pillai,,Architect Referral,10.81766750362659,76.65925553246547,Palakkad,Commercial Space,2024,6,True,False,Lost,Negotiation,0
+246,2024-06-21,WhatsApp,Commercial,Vijay R,9682387210,Mohammed Nair,Thomas Interiors,Small Business,8.938253282095442,76.58008797633664,Kollam,Bathroom Renovation,2024,6,True,False,Won,Follow-up,0
+247,2024-06-23,Google Ads,Residential,Priya M,9269262177,Deepa Panicker,Fathima Constructions,Builder,11.21100661486823,75.7995246663786,Kozhikode,Bedroom Design,2024,6,True,False,Lost,Negotiation,0
+248,2024-06-26,IndiaMART,Commercial,Priya M,9405092529,Asif Namboothiri,Nisha Associates,Architect Referral,8.941452127225604,76.58085665393044,Kollam,Traditional Living Room,2024,6,True,False,Won,Design Phase,0
+249,2024-06-28,Walk-in,Residential,Divya N,9813901126,Suresh Joseph,,Small Business,10.486213213906368,76.19543084821045,Thrissur,Traditional Living Room,2024,6,True,False,Lost,Quotation Sent,0
+250,2024-06-30,Facebook,Residential,Anjali D,9822061881,Smitha Pillai,,Corporate,11.290238677926878,75.78073451306062,Kozhikode,Bathroom Renovation,2024,6,True,False,Site Visit,Design Phase,0
+251,2024-07-02,WhatsApp,Modular Kitchen,Suresh L,9337178929,Santhosh Varma,Smitha Group,Corporate,8.871233475255142,76.64374405615234,Kollam,Modular Wardrobe,2024,7,True,False,Won,Won,57399
+252,2024-07-04,Facebook,Renovation,Sneha B,9179723877,Suresh Krishnan,Abdul Interiors,Individual,10.490817965775387,76.23834692332387,Thrissur,Pooja Room,2024,7,True,False,Quotation Sent,Won,1612818
+253,2024-07-06,JustDial,Office Interiors,Divya N,9926280663,Sabu Joseph,Rekha Properties,Architect Referral,10.780685563971383,76.66935343564104,Palakkad,Pooja Room,2024,7,True,False,Lost,Lost,0
+254,2024-07-09,Google Ads,Residential,Ajith P,9533697673,Divya Kumar,,Small Business,8.907595657944762,76.579677326058,Kollam,Commercial Space,2024,7,True,False,Follow-up,Quotation Sent,136812
+255,2024-07-11,Website,Office Interiors,Divya N,9421354655,Anoop George,Fathima Associates,Builder,10.515695184502347,76.21910453456155,Thrissur,Modular Wardrobe,2024,7,True,False,Won,Design Phase,108662
+256,2024-07-13,Referral,Office Interiors,Meera T,9819368755,Meera Sharma,,Corporate,8.47955654082827,76.89534465018,Thiruvananthapuram,Bathroom Renovation,2024,7,True,False,Lost,Quotation Sent,0
+257,2024-07-15,Google Ads,Office Interiors,Sneha B,9909415438,Deepa Panicker,,Small Business,9.601546113965872,76.50993631767966,Kottayam,Pooja Room,2024,7,True,False,Won,Won,822592
+258,2024-07-17,Facebook,Commercial,Arun K,9732543716,Rajesh Panicker,Mohammed Developers,Architect Referral,8.564340327611069,76.927951653029,Thiruvananthapuram,Pooja Room,2024,7,True,False,Design Phase,Design Phase,401995
+259,2024-07-20,Google Ads,Commercial,Ajith P,9228339027,Sreelatha Krishnan,,Individual,9.579921536594725,76.47618114394457,Kottayam,Pooja Room,2024,7,False,False,Site Visit,Lost,0
+260,2024-07-22,Instagram,Residential,Rahul S,9139911037,Babu Das,Nisha Builders,Corporate,9.902833277763083,76.244698809947,Kochi,Full Home Interior,2024,7,True,False,Follow-up,Won,1084023
+261,2024-07-24,Facebook,Residential,Divya N,9813058296,Arun Abraham,,Small Business,9.925457734593282,76.31286494672665,Kochi,Office Cabin,2024,7,True,False,Won,Lost,0
+262,2024-07-26,Referral,Residential,Priya M,9591479623,Arun Hassan,Anoop Constructions,Small Business,9.886036271104878,76.31266326078297,Kochi,Bathroom Renovation,2024,7,True,False,Design Phase,Won,846060
+263,2024-07-28,Facebook,Residential,Suresh L,9914929191,Arun Abraham,Meera Constructions,Small Business,10.818748758448027,76.64003270542524,Palakkad,False Ceiling,2024,7,True,False,Lost,Follow-up,403545
+264,2024-07-31,Facebook,Commercial,Arun K,9137392619,Manoj Menon,Rajesh Developers,Architect Referral,8.55673408109502,76.89091001089483,Thiruvananthapuram,Modern Kitchen,2024,7,True,False,Won,Lost,0
+265,2024-08-02,Walk-in,Modular Kitchen,Divya N,9221841719,Sreelatha Panicker,Babu LLP,Architect Referral,9.600400046342962,76.49010949393282,Kottayam,Modern Kitchen,2024,8,True,False,Follow-up,Follow-up,0
+266,2024-08-04,Google Ads,Commercial,Divya N,9768174230,Deepa Krishnan,Shyamala Interiors,Architect Referral,10.512910288893838,76.20362177934335,Thrissur,Modular Wardrobe,2024,8,True,False,Design Phase,Negotiation,0
+267,2024-08-06,JustDial,Residential,Vijay R,9307417703,Rajesh Krishnan,,Builder,11.28877833644458,75.82517796979693,Kozhikode,Bathroom Renovation,2024,8,True,False,Won,Quotation Sent,0
+268,2024-08-08,WhatsApp,Renovation,Vijay R,9990230666,Anjali Das,Kavitha Developers,Small Business,10.533068702478836,76.17851990635371,Thrissur,Bathroom Renovation,2024,8,True,False,Won,Negotiation,0
+269,2024-08-11,Website,Renovation,Arun K,9427508077,Mohammed Kurup,Thomas Constructions,Corporate,11.291393230855002,75.80675158436682,Kozhikode,Modern Kitchen,2024,8,True,False,Design Phase,Lost,0
+270,2024-08-13,Referral,Office Interiors,Anjali D,9660840895,Abdul Panicker,Santhosh Enterprises,Architect Referral,11.8876458792583,75.33126825393747,Kannur,Commercial Space,2024,8,True,False,Won,Site Visit,0
+271,2024-08-15,JustDial,Renovation,Vijay R,9312099975,Meera Warrier,Divya Group,Architect Referral,10.55604054732128,76.26252575773913,Thrissur,Modern Kitchen,2024,8,True,False,Won,Quotation Sent,0
+272,2024-08-17,Google Ads,Commercial,Priya M,9188136247,Thomas Abraham,Suma LLP,Small Business,8.903056299321776,76.6022616499109,Kollam,Bathroom Renovation,2024,8,True,False,Follow-up,Won,398249
+273,2024-08-19,Google Ads,Renovation,Ajith P,9656966971,Babu Nair,Meera Developers,Architect Referral,8.884614106821568,76.64162345388989,Kollam,Pooja Room,2024,8,False,False,Quotation Sent,Follow-up,444895
+274,2024-08-22,Facebook,Residential,Rahul S,9429073289,Shyamala Kurup,Gopal LLP,Builder,9.543894585992614,76.32305910828111,Alappuzha,Commercial Space,2024,8,True,False,Follow-up,Lost,0
+275,2024-08-24,Walk-in,Commercial,Sneha B,9127758630,Sabu Kumar,,Builder,8.528211382487886,76.94936688771588,Thiruvananthapuram,Bedroom Design,2024,8,True,False,Design Phase,Won,54576
+276,2024-08-26,Google Ads,Residential,Rahul S,9596479771,Babu Das,,Architect Referral,11.269308951854054,75.74960160847401,Kozhikode,False Ceiling,2024,8,True,False,Negotiation,Negotiation,0
+277,2024-08-28,Referral,Residential,Rahul S,9552344880,Anoop Nair,Lakshmi Constructions,Small Business,11.230848763941475,75.7450021019297,Kozhikode,Full Home Interior,2024,8,False,False,Won,Quotation Sent,0
+278,2024-08-30,YouTube,Residential,Sneha B,9545373859,Babu Varma,Nisha Properties,Small Business,8.536665078942729,76.98040641395681,Thiruvananthapuram,Office Cabin,2024,8,False,False,Design Phase,Won,1522077
+279,2024-09-02,WhatsApp,Modular Kitchen,Vijay R,9847299452,Sabu Nair,Arun Constructions,Small Business,10.793860764948294,76.69656472779043,Palakkad,Bedroom Design,2024,9,True,False,Lost,Site Visit,0
+280,2024-09-04,Referral,Office Interiors,Arun K,9325395724,Thankam Kumar,Thomas Homes,Individual,9.466583839794703,76.3775468940213,Alappuzha,Traditional Living Room,2024,9,True,False,Lost,Quotation Sent,289309
+281,2024-09-06,Google Ads,Modular Kitchen,Sneha B,9368713951,Rekha Menon,Priya Homes,Architect Referral,10.742658709735315,76.66734334501665,Palakkad,Modern Kitchen,2024,9,True,False,Follow-up,Quotation Sent,0
+282,2024-09-08,WhatsApp,Residential,Meera T,9830640153,Meera Varma,,Small Business,10.797135931971477,76.68562682112162,Palakkad,False Ceiling,2024,9,True,False,Lost,Won,1649826
+283,2024-09-10,Referral,Office Interiors,Anjali D,9353504597,Sabu Iyer,,Builder,10.813069226935031,76.61170369369113,Palakkad,Modern Kitchen,2024,9,True,True,Won,Quotation Sent,457150
+284,2024-09-13,Google Ads,Modular Kitchen,Ajith P,9736677635,Arun Das,,Corporate,8.526440137092202,76.92007890418907,Thiruvananthapuram,Modern Kitchen,2024,9,True,False,Won,Lost,0
+285,2024-09-15,Google Ads,Commercial,Suresh L,9731024862,Rajan Abraham,Smitha Constructions,Corporate,10.759377262531965,76.63617031247571,Palakkad,Bedroom Design,2024,9,True,False,Lost,Follow-up,309907
+286,2024-09-17,JustDial,Modular Kitchen,Vijay R,9215119441,Lakshmi George,Meera Group,Small Business,8.909852197669304,76.62766453219525,Kollam,Pooja Room,2024,9,True,False,Quotation Sent,Won,1208866
+287,2024-09-19,Website,Residential,Anjali D,9497907903,Suma Warrier,Babu Group,Corporate,9.88921057266096,76.25289577734706,Kochi,Pooja Room,2024,9,True,False,Follow-up,Won,1031598
+288,2024-09-21,WhatsApp,Residential,Sneha B,9428478885,Suma Abraham,Priya Properties,Corporate,11.868683370480195,75.33525067816437,Kannur,Full Home Interior,2024,9,True,False,Design Phase,Site Visit,0
+289,2024-09-23,JustDial,Renovation,Meera T,9592456318,Babu Panicker,Nisha Properties,Individual,11.225136675839844,75.79004670754135,Kozhikode,Commercial Space,2024,9,True,False,Lost,Lost,0
+290,2024-09-26,Referral,Residential,Suresh L,9765399166,Suresh Abraham,Babu Constructions,Builder,11.227245905105988,75.8118383920669,Kozhikode,Modern Kitchen,2024,9,True,False,Lost,Won,1009540
+291,2024-09-28,Referral,Commercial,Ajith P,9191766135,Lakshmi Thomas,Asif Constructions,Builder,11.84472939491582,75.358612349446,Kannur,Modular Wardrobe,2024,9,False,False,Won,Won,2271132
+292,2024-09-30,Instagram,Office Interiors,Ajith P,9455352022,Rajan Menon,,Individual,8.512770705704398,76.89982687150984,Thiruvananthapuram,Pooja Room,2024,9,False,False,Won,Negotiation,0
+293,2024-10-02,Facebook,Modular Kitchen,Vijay R,9523410453,Sabu Krishnan,Lakshmi LLP,Individual,10.48271502056204,76.18406881973128,Thrissur,Bathroom Renovation,2024,10,True,False,Lost,Won,791165
+294,2024-10-04,Instagram,Residential,Sneha B,9440652062,Abdul Kumar,,Corporate,8.51387934409291,76.91034833051694,Thiruvananthapuram,False Ceiling,2024,10,True,False,Site Visit,Site Visit,41541
+295,2024-10-07,Walk-in,Residential,Anjali D,9325140086,Lakshmi Patel,Rajan Interiors,Architect Referral,11.25997074471147,75.76038975929946,Kozhikode,Modular Wardrobe,2024,10,True,False,Quotation Sent,Won,525759
+296,2024-10-09,Referral,Residential,Arun K,9987664650,Sabu Varma,,Corporate,11.257129428496633,75.79467950705063,Kozhikode,Bedroom Design,2024,10,True,False,Design Phase,Won,179188
+297,2024-10-11,JustDial,Modular Kitchen,Anjali D,9372336859,Shyamala Patel,Mohammed Group,Individual,11.862778410040303,75.38049454845378,Kannur,Bedroom Design,2024,10,True,False,Won,Lost,0
+298,2024-10-13,Instagram,Commercial,Anjali D,9603450925,Thankam Iyer,,Builder,10.820614660807076,76.6744079861567,Palakkad,Full Home Interior,2024,10,True,False,Quotation Sent,Follow-up,0
+299,2024-10-15,Referral,Residential,Ajith P,9331090271,Deepa Das,,Corporate,8.488632669242051,76.92285019845315,Thiruvananthapuram,Full Home Interior,2024,10,True,False,Lost,Lost,0
+300,2024-10-18,Website,Renovation,Arun K,9769932733,Anjali Panicker,Lakshmi Homes,Architect Referral,9.592169674378138,76.554599765188,Kottayam,Commercial Space,2024,10,True,False,Won,Lost,0
+301,2024-10-20,Referral,Commercial,Arun K,9689048260,Manoj Abraham,Smitha Associates,Corporate,11.830704141695655,75.34080876611559,Kannur,Bathroom Renovation,2024,10,True,False,Quotation Sent,Design Phase,301909
+302,2024-10-22,Website,Residential,Vijay R,9446599909,Divya Joseph,,Small Business,8.850315567887792,76.6110040747518,Kollam,False Ceiling,2024,10,True,True,Negotiation,Negotiation,0
+303,2024-10-24,Facebook,Commercial,Suresh L,9231237129,Asif Thomas,Deepa Enterprises,Corporate,11.266186584967711,75.81049387215414,Kozhikode,Bathroom Renovation,2024,10,True,False,Won,Won,594444
+304,2024-10-26,Referral,Modular Kitchen,Divya N,9123659943,Divya George,Mohammed Enterprises,Individual,11.881101842488782,75.33841586477327,Kannur,Traditional Living Room,2024,10,True,False,Lost,Lost,0
+305,2024-10-29,Google Ads,Residential,Rahul S,9330313087,Deepa Sharma,,Builder,8.561903351284446,76.89758631137407,Thiruvananthapuram,Full Home Interior,2024,10,True,False,Lost,Quotation Sent,0
+306,2024-10-31,Instagram,Residential,Rahul S,9718813677,Anoop Nair,Rekha Enterprises,Builder,11.264587367566008,75.8187683967688,Kozhikode,Commercial Space,2024,10,True,False,Site Visit,Lost,0
+307,2024-11-02,Referral,Office Interiors,Ajith P,9364955799,Thomas Panicker,,Individual,10.573579102040485,76.19869296627591,Thrissur,Office Cabin,2024,11,True,False,Follow-up,Won,1542273
+308,2024-11-04,Website,Commercial,Divya N,9632569442,Smitha Patel,Anjali Homes,Small Business,11.829369484839992,75.38878701249091,Kannur,Modern Kitchen,2024,11,True,False,Design Phase,Site Visit,0
+309,2024-11-06,IndiaMART,Commercial,Suresh L,9113490091,Kavitha Thomas,Manoj Interiors,Individual,9.457900768478074,76.2913348604264,Alappuzha,Modern Kitchen,2024,11,True,False,Won,Negotiation,187408
+310,2024-11-09,Referral,Commercial,Divya N,9201534831,Lakshmi Khan,,Corporate,11.213206586157039,75.79940468884095,Kozhikode,Office Cabin,2024,11,True,False,Lost,Follow-up,83631
+311,2024-11-11,Walk-in,Residential,Vijay R,9848369723,Lakshmi Varma,Lakshmi Associates,Individual,8.492627685033355,76.9182101311547,Thiruvananthapuram,Pooja Room,2024,11,True,False,Follow-up,Won,359799
+312,2024-11-13,Referral,Residential,Anjali D,9638613078,Suma Varma,,Individual,9.935327011094168,76.22287408535875,Kochi,Bathroom Renovation,2024,11,True,False,Follow-up,Won,477557
+313,2024-11-15,Website,Commercial,Ajith P,9453356944,Deepa Iyer,Anoop Constructions,Small Business,9.606157218142743,76.5331812761548,Kottayam,Office Cabin,2024,11,True,False,Lost,Negotiation,0
+314,2024-11-17,Google Ads,Residential,Arun K,9923544896,Gopal Namboothiri,Thankam Group,Corporate,11.005558515794867,76.04518038160732,Malappuram,Commercial Space,2024,11,True,False,Site Visit,Won,2215456
+315,2024-11-20,Facebook,Residential,Ajith P,9342508766,Rekha Krishnan,Kavitha Homes,Architect Referral,10.83129708898456,76.64348072420518,Palakkad,False Ceiling,2024,11,True,False,Quotation Sent,Follow-up,0
+316,2024-11-22,Instagram,Office Interiors,Rahul S,9725810921,Babu Joseph,,Architect Referral,11.085216537665039,76.02915808122866,Malappuram,Office Cabin,2024,11,True,False,Design Phase,Follow-up,130938
+317,2024-11-24,Referral,Renovation,Suresh L,9410874936,Deepa Namboothiri,Mohammed Constructions,Builder,8.50376124821571,76.90131632510949,Thiruvananthapuram,Commercial Space,2024,11,True,False,Site Visit,Lost,0
+318,2024-11-26,Google Ads,Office Interiors,Divya N,9344721769,Rekha Patel,Deepa Enterprises,Individual,8.850918753022647,76.59389772354957,Kollam,Full Home Interior,2024,11,False,False,Quotation Sent,Design Phase,494103
+319,2024-11-28,Google Ads,Office Interiors,Suresh L,9237091252,Manoj Nair,Deepa Developers,Builder,8.860188707321907,76.57307595005601,Kollam,Modular Wardrobe,2024,11,True,False,Follow-up,Quotation Sent,0
+320,2024-12-01,Facebook,Residential,Vijay R,9824162743,Sreelatha Varma,Anoop Associates,Small Business,9.893894441375497,76.30838262646864,Kochi,Bedroom Design,2024,12,True,False,Quotation Sent,Site Visit,0
+321,2024-12-03,YouTube,Renovation,Ajith P,9588808673,Santhosh Joseph,,Architect Referral,10.749028377929895,76.60540470431839,Palakkad,Bedroom Design,2024,12,True,False,Lost,Won,2497193
+322,2024-12-05,Facebook,Residential,Sneha B,9995206152,Lakshmi Nair,,Individual,9.499956168866575,76.33718602188644,Alappuzha,Traditional Living Room,2024,12,False,False,Lost,Won,310933
+323,2024-12-07,Referral,Renovation,Ajith P,9919161877,Rekha Krishnan,Arun Associates,Small Business,9.90578474424934,76.22962474581325,Kochi,Bathroom Renovation,2024,12,True,False,Lost,Follow-up,0
+324,2024-12-09,Google Ads,Renovation,Arun K,9516879704,Deepa Abraham,Anjali Interiors,Small Business,11.036813971652915,76.0518679089478,Malappuram,False Ceiling,2024,12,True,False,Follow-up,Won,1834210
+325,2024-12-11,Referral,Modular Kitchen,Ajith P,9419062703,Santhosh Abraham,Sreelatha Interiors,Individual,9.980150533338433,76.30990595598183,Kochi,Modular Wardrobe,2024,12,True,False,Lost,Design Phase,489771
+326,2024-12-14,Facebook,Renovation,Meera T,9302883601,Vijay Namboothiri,,Small Business,11.069431424892535,76.0372694553274,Malappuram,Modular Wardrobe,2024,12,True,False,Design Phase,Won,1794919
+327,2024-12-16,Facebook,Modular Kitchen,Vijay R,9818171506,Meera Warrier,,Individual,11.303698066704701,75.82698323197184,Kozhikode,Full Home Interior,2024,12,False,False,Lost,Follow-up,0
+328,2024-12-18,Referral,Residential,Priya M,9216175783,Anoop Namboothiri,Santhosh Builders,Individual,8.857455655503312,76.58467943769894,Kollam,Office Cabin,2024,12,False,False,Won,Lost,0
+329,2024-12-20,Google Ads,Commercial,Vijay R,9805240976,Mohammed Warrier,Vijay Homes,Corporate,11.247013947483257,75.80455661084669,Kozhikode,Bathroom Renovation,2024,12,True,False,Follow-up,Negotiation,207687
+330,2024-12-22,Google Ads,Modular Kitchen,Divya N,9581908110,Anoop Patel,,Builder,9.597073180328236,76.52686772648973,Kottayam,Modern Kitchen,2024,12,True,False,Won,Won,881710
+331,2024-12-25,Facebook,Residential,Priya M,9955754857,Anjali Menon,Manoj LLP,Small Business,10.744375806188874,76.69324787275967,Palakkad,Modular Wardrobe,2024,12,True,False,Won,Lost,0
+332,2024-12-27,Google Ads,Modular Kitchen,Divya N,9374343182,Rajesh Sharma,Manoj Enterprises,Small Business,9.448518744362797,76.34419932555032,Alappuzha,Commercial Space,2024,12,True,False,Won,Won,1982919
+333,2024-12-29,Google Ads,Renovation,Divya N,9293107918,Sabu Menon,Asif Enterprises,Corporate,11.068043433379692,76.07455592191563,Malappuram,Modern Kitchen,2024,12,True,False,Follow-up,Quotation Sent,493506
+334,2024-12-31,Facebook,Residential,Arun K,9263306302,Sabu Hassan,Shyamala LLP,Corporate,9.512281951680144,76.30834580003685,Alappuzha,Traditional Living Room,2024,12,True,False,Lost,Won,1916161
+335,2025-01-02,WhatsApp,Office Interiors,Arun K,9642696950,Asif Thomas,Gopal LLP,Corporate,11.042078880999961,76.03772293620517,Malappuram,Office Cabin,2025,1,True,False,Site Visit,Quotation Sent,290488
+336,2025-01-05,Referral,Renovation,Anjali D,9487011238,Sabu Krishnan,Rajan Properties,Architect Referral,8.523064407603204,76.97824891511155,Thiruvananthapuram,Office Cabin,2025,1,True,False,Site Visit,Quotation Sent,47656
+337,2025-01-07,Referral,Renovation,Rahul S,9368672524,Rekha Kurup,Meera Enterprises,Architect Referral,9.92274430005921,76.250083819885,Kochi,False Ceiling,2025,1,False,False,Lost,Lost,0
+338,2025-01-09,Facebook,Renovation,Anjali D,9165113119,Shyamala Das,,Architect Referral,9.544000504484488,76.50940822549629,Kottayam,Modular Wardrobe,2025,1,True,False,Lost,Site Visit,0
+339,2025-01-11,IndiaMART,Commercial,Anjali D,9699230856,Santhosh Nair,,Individual,8.876737160621747,76.64008236584283,Kollam,Full Home Interior,2025,1,True,False,Lost,Won,2287225
+340,2025-01-13,Instagram,Renovation,Rahul S,9917844263,Gopal Patel,Thomas Associates,Small Business,11.01870822553973,76.05498234824228,Malappuram,Pooja Room,2025,1,True,False,Site Visit,Design Phase,88784
+341,2025-01-16,Google Ads,Office Interiors,Sneha B,9621697939,Rekha Sharma,,Builder,9.457942418910138,76.38400624466391,Alappuzha,Pooja Room,2025,1,False,False,Won,Follow-up,353288
+342,2025-01-18,Referral,Residential,Priya M,9167960025,Santhosh Hassan,,Individual,9.637272043388935,76.54599277689988,Kottayam,Bedroom Design,2025,1,True,False,Won,Lost,0
+343,2025-01-20,Google Ads,Commercial,Suresh L,9938233818,Rajesh Hassan,,Small Business,10.537535972504216,76.22414292425734,Thrissur,Commercial Space,2025,1,True,False,Site Visit,Lost,0
+344,2025-01-22,Facebook,Modular Kitchen,Anjali D,9197754068,Shyamala Namboothiri,Nisha LLP,Small Business,10.55046562842366,76.25248951605447,Thrissur,Modern Kitchen,2025,1,True,False,Follow-up,Won,1159736
+345,2025-01-24,Referral,Residential,Ajith P,9770251208,Gopal Warrier,Anoop Enterprises,Corporate,11.240336374326613,75.73536059083494,Kozhikode,Traditional Living Room,2025,1,True,False,Won,Design Phase,166926
+346,2025-01-27,JustDial,Modular Kitchen,Ajith P,9355889227,Rekha Panicker,,Corporate,8.882514712949401,76.58980626921891,Kollam,Bedroom Design,2025,1,True,False,Won,Won,633072
+347,2025-01-29,Referral,Modular Kitchen,Divya N,9903327013,Gopal Kurup,Arun Enterprises,Individual,8.497792399389674,76.93310363342209,Thiruvananthapuram,Office Cabin,2025,1,True,False,Design Phase,Negotiation,0
+348,2025-01-31,Website,Residential,Rahul S,9478946770,Arun George,Shyamala Properties,Corporate,9.457796567096544,76.31149785394716,Alappuzha,Modern Kitchen,2025,1,False,False,Quotation Sent,Lost,0
+349,2025-02-02,YouTube,Modular Kitchen,Divya N,9778959547,Thankam Krishnan,Anjali Group,Small Business,9.899103163744158,76.29169051873022,Kochi,Bathroom Renovation,2025,2,True,True,Negotiation,Design Phase,36797
+350,2025-02-04,Google Ads,Office Interiors,Meera T,9578475590,Sabu Krishnan,Priya Developers,Corporate,9.960951404529649,76.30922080310538,Kochi,Modular Wardrobe,2025,2,True,False,Follow-up,Won,1961128
+351,2025-02-07,Facebook,Commercial,Meera T,9602561528,Thankam Hassan,Lakshmi Group,Architect Referral,9.51585458051838,76.3311770119931,Alappuzha,Traditional Living Room,2025,2,True,False,Follow-up,Follow-up,24780
+352,2025-02-09,Instagram,Residential,Suresh L,9571564514,Rajan Khan,,Corporate,10.791392887598548,76.63901326001118,Palakkad,Bathroom Renovation,2025,2,True,False,Design Phase,Follow-up,424789
+353,2025-02-11,Instagram,Residential,Arun K,9313536815,Deepa Krishnan,,Small Business,8.521608987286678,76.98275507321375,Thiruvananthapuram,Full Home Interior,2025,2,True,False,Design Phase,Negotiation,139651
+354,2025-02-13,Instagram,Commercial,Arun K,9773471505,Nisha Nair,Smitha Interiors,Individual,9.633843428365612,76.51668524328275,Kottayam,Modular Wardrobe,2025,2,True,False,Won,Won,2475358
+355,2025-02-15,JustDial,Renovation,Rahul S,9629279887,Sreelatha Krishnan,Smitha Enterprises,Builder,11.008273494777868,76.07000484004493,Malappuram,Modern Kitchen,2025,2,True,False,Site Visit,Won,149596
+356,2025-02-18,Website,Residential,Rahul S,9436008630,Thomas Sharma,,Corporate,10.764760081323791,76.63996498723418,Palakkad,Modular Wardrobe,2025,2,True,False,Won,Won,1901579
+357,2025-02-20,Referral,Modular Kitchen,Anjali D,9952682534,Priya Hassan,,Small Business,11.035993785357071,76.11205484730121,Malappuram,Bedroom Design,2025,2,True,False,Won,Site Visit,0
+358,2025-02-22,Facebook,Residential,Meera T,9976129987,Nisha Das,Manoj Properties,Builder,11.07924258122128,76.07799554832819,Malappuram,False Ceiling,2025,2,True,False,Negotiation,Won,2155777
+359,2025-02-24,WhatsApp,Residential,Anjali D,9813588922,Abdul Kumar,Suresh Properties,Builder,10.835951462016197,76.68101745871816,Palakkad,Bedroom Design,2025,2,True,True,Lost,Follow-up,311343
+360,2025-02-26,IndiaMART,Office Interiors,Arun K,9153459288,Arun Panicker,,Architect Referral,11.232867051475717,75.81158067183509,Kozhikode,Full Home Interior,2025,2,False,True,Design Phase,Won,459142
+361,2025-02-28,WhatsApp,Modular Kitchen,Priya M,9159488479,Babu Kurup,,Builder,10.565030733413707,76.19858490419172,Thrissur,Commercial Space,2025,2,True,False,Won,Quotation Sent,0
+362,2025-03-03,Google Ads,Residential,Priya M,9641174589,Mohammed Iyer,Nisha Developers,Small Business,11.084062276043179,76.06446943313203,Malappuram,Bathroom Renovation,2025,3,True,False,Follow-up,Design Phase,0
+363,2025-03-05,Website,Commercial,Rahul S,9758409959,Meera Krishnan,,Small Business,10.759165739764176,76.68964717744062,Palakkad,Bedroom Design,2025,3,True,False,Quotation Sent,Follow-up,30566
+364,2025-03-07,Google Ads,Residential,Divya N,9943614092,Sreelatha Menon,Vijay Properties,Corporate,10.776633258019922,76.64112553516757,Palakkad,False Ceiling,2025,3,True,False,Quotation Sent,Lost,0
+365,2025-03-09,Facebook,Commercial,Arun K,9700796012,Smitha Nair,,Corporate,11.86546728692925,75.39979351334519,Kannur,Commercial Space,2025,3,True,False,Won,Won,1131781
+366,2025-03-11,Google Ads,Modular Kitchen,Priya M,9965198928,Manoj Sharma,Sreelatha Properties,Corporate,11.306622066852656,75.82449923225744,Kozhikode,Bedroom Design,2025,3,True,False,Lost,Won,2176869
+367,2025-03-14,Referral,Residential,Arun K,9391440624,Rajesh Panicker,,Builder,8.86128919013789,76.6264210373068,Kollam,Office Cabin,2025,3,True,False,Negotiation,Won,992639
+368,2025-03-16,Website,Residential,Vijay R,9853730788,Arun Pillai,Arun Interiors,Builder,11.904415797110477,75.39456272874519,Kannur,False Ceiling,2025,3,True,False,Won,Negotiation,169236
+369,2025-03-18,Google Ads,Commercial,Ajith P,9143586949,Suma Panicker,Deepa Homes,Architect Referral,11.85791927141731,75.40090973120412,Kannur,Bathroom Renovation,2025,3,True,False,Design Phase,Follow-up,0
+370,2025-03-20,Instagram,Renovation,Meera T,9390886610,Rekha Abraham,,Corporate,9.521187034577617,76.37330396488967,Alappuzha,Traditional Living Room,2025,3,True,False,Quotation Sent,Design Phase,0
+371,2025-03-22,Instagram,Renovation,Anjali D,9440653048,Suresh Pillai,,Individual,10.519601100429567,76.20390533378568,Thrissur,Pooja Room,2025,3,True,False,Won,Lost,0
+372,2025-03-25,Instagram,Residential,Arun K,9155392443,Abdul Nair,,Architect Referral,10.794535976311654,76.6099263459176,Palakkad,Commercial Space,2025,3,True,False,Won,Negotiation,0
+373,2025-03-27,Google Ads,Office Interiors,Ajith P,9613704205,Smitha Abraham,Anjali Constructions,Individual,10.560861177332614,76.20458762712367,Thrissur,Office Cabin,2025,3,True,False,Won,Follow-up,0
+374,2025-03-29,Instagram,Commercial,Vijay R,9721676126,Deepa Menon,Suresh Interiors,Builder,8.554516556498388,76.9539756229784,Thiruvananthapuram,Traditional Living Room,2025,3,True,False,Quotation Sent,Follow-up,0
+375,2025-03-31,Walk-in,Commercial,Anjali D,9756167221,Mohammed Joseph,Babu Properties,Architect Referral,9.53474231835397,76.33383503857809,Alappuzha,Modern Kitchen,2025,3,True,False,Won,Won,152537
+376,2025-04-02,Google Ads,Office Interiors,Arun K,9326182694,Suma Joseph,Smitha Enterprises,Architect Referral,8.849161732534466,76.63899631508603,Kollam,False Ceiling,2025,4,True,False,Lost,Lost,0
+377,2025-04-05,Google Ads,Renovation,Rahul S,9883070279,Asif Khan,Suresh Enterprises,Small Business,10.546805055303974,76.20009824294686,Thrissur,Office Cabin,2025,4,True,False,Lost,Follow-up,256337
+378,2025-04-07,Instagram,Renovation,Ajith P,9624730136,Lakshmi Warrier,Manoj Builders,Builder,9.895198737672176,76.28077441411041,Kochi,Modular Wardrobe,2025,4,True,False,Follow-up,Negotiation,280151
+379,2025-04-09,IndiaMART,Modular Kitchen,Anjali D,9794355615,Suresh Joseph,,Builder,11.042581856801842,76.0397419804854,Malappuram,Modern Kitchen,2025,4,True,False,Won,Design Phase,241704
+380,2025-04-11,Website,Commercial,Arun K,9226340282,Manoj Khan,Anjali Associates,Architect Referral,8.52895884150547,76.9615369436645,Thiruvananthapuram,Modern Kitchen,2025,4,True,True,Won,Lost,0
+381,2025-04-13,Website,Office Interiors,Ajith P,9706550501,Nisha Kurup,Divya Developers,Builder,11.249073948474685,75.7849695968813,Kozhikode,Commercial Space,2025,4,False,False,Design Phase,Won,1402507
+382,2025-04-16,Instagram,Residential,Vijay R,9665447870,Meera Kurup,Arun Associates,Architect Referral,8.895161167580302,76.58450643885466,Kollam,False Ceiling,2025,4,True,True,Quotation Sent,Follow-up,321726
+383,2025-04-18,Referral,Modular Kitchen,Arun K,9404416165,Arun Krishnan,Rajan Associates,Small Business,8.573752630879863,76.91579111734978,Thiruvananthapuram,Office Cabin,2025,4,True,False,Site Visit,Follow-up,238870
+384,2025-04-20,Google Ads,Commercial,Arun K,9549697911,Fathima Krishnan,,Architect Referral,11.014521731371286,76.09596087085818,Malappuram,Full Home Interior,2025,4,True,False,Won,Won,842214
+385,2025-04-22,Website,Modular Kitchen,Arun K,9895730139,Lakshmi Sharma,,Builder,9.515645604533644,76.33706012356616,Alappuzha,Office Cabin,2025,4,True,False,Lost,Site Visit,76770
+386,2025-04-24,JustDial,Residential,Suresh L,9809967924,Priya Nair,,Builder,11.040600096638562,76.04270314403931,Malappuram,Bedroom Design,2025,4,True,False,Negotiation,Design Phase,0
+387,2025-04-27,Referral,Residential,Rahul S,9223021021,Thomas Varma,Gopal Associates,Architect Referral,11.837800979890732,75.41712711903703,Kannur,Modern Kitchen,2025,4,True,False,Lost,Design Phase,0
+388,2025-04-29,JustDial,Renovation,Vijay R,9547796674,Shyamala Patel,Manoj Associates,Architect Referral,11.01687367633743,76.09261250198169,Malappuram,Bathroom Renovation,2025,4,True,False,Quotation Sent,Won,1640016
+389,2025-05-01,Walk-in,Residential,Anjali D,9885282284,Meera Menon,Lakshmi Builders,Architect Referral,11.919427310624561,75.41611348325398,Kannur,Modern Kitchen,2025,5,True,False,Negotiation,Quotation Sent,0
+390,2025-05-03,Google Ads,Commercial,Suresh L,9772406261,Mohammed Thomas,,Corporate,9.536060149671178,76.33151050453604,Alappuzha,Modern Kitchen,2025,5,True,True,Won,Negotiation,0
+391,2025-05-05,JustDial,Residential,Divya N,9425176033,Shyamala Varma,Deepa Properties,Builder,9.632304196041503,76.51971003406916,Kottayam,Pooja Room,2025,5,True,False,Quotation Sent,Lost,0
+392,2025-05-08,Google Ads,Residential,Suresh L,9757949391,Suresh Das,Shyamala Enterprises,Builder,11.923653277582739,75.4101955216185,Kannur,Modular Wardrobe,2025,5,True,False,Design Phase,Follow-up,243731
+393,2025-05-10,Referral,Residential,Meera T,9253362837,Thankam Namboothiri,Meera Homes,Corporate,11.229631539000852,75.78290493402454,Kozhikode,Full Home Interior,2025,5,True,False,Won,Quotation Sent,0
+394,2025-05-12,Google Ads,Residential,Meera T,9546036575,Priya Thomas,Gopal Developers,Architect Referral,11.036543933736406,76.09182789119056,Malappuram,Traditional Living Room,2025,5,True,False,Follow-up,Follow-up,0
+395,2025-05-14,Google Ads,Office Interiors,Arun K,9860740860,Mohammed Warrier,,Small Business,11.067921902992486,76.04631728774956,Malappuram,Traditional Living Room,2025,5,True,False,Lost,Lost,0
+396,2025-05-16,Instagram,Residential,Suresh L,9429054629,Divya Thomas,Smitha Homes,Architect Referral,11.257180253986066,75.77507264687027,Kozhikode,Modular Wardrobe,2025,5,True,False,Lost,Follow-up,467442
+397,2025-05-18,Facebook,Renovation,Divya N,9352397814,Suma Hassan,Divya Developers,Architect Referral,9.923038953337834,76.22964498658104,Kochi,Modern Kitchen,2025,5,True,False,Won,Follow-up,378709
+398,2025-05-21,Referral,Modular Kitchen,Suresh L,9406061383,Meera Joseph,Asif Constructions,Corporate,10.77248112493356,76.62539800358769,Palakkad,Traditional Living Room,2025,5,True,False,Follow-up,Won,2038022
+399,2025-05-23,Referral,Commercial,Rahul S,9620419133,Manoj Hassan,Sabu Enterprises,Builder,9.600978063194345,76.47229434152676,Kottayam,False Ceiling,2025,5,True,False,Design Phase,Quotation Sent,48712
+400,2025-05-25,Google Ads,Modular Kitchen,Rahul S,9714185144,Nisha Krishnan,Thomas Homes,Architect Referral,8.900759342864008,76.56802650516487,Kollam,Full Home Interior,2025,5,True,False,Follow-up,Negotiation,246502
+401,2025-05-27,Google Ads,Commercial,Divya N,9253085957,Gopal Joseph,,Builder,11.840645783406423,75.41812838231769,Kannur,Traditional Living Room,2025,5,True,False,Won,Negotiation,321776
+402,2025-05-29,Referral,Office Interiors,Suresh L,9634930637,Vijay Panicker,Abdul Associates,Individual,11.255973983751845,75.75463536951368,Kozhikode,Modular Wardrobe,2025,5,True,False,Negotiation,Won,72551
+403,2025-06-01,Facebook,Residential,Ajith P,9112019231,Priya George,Arun Constructions,Builder,9.503447177620986,76.3551310709504,Alappuzha,Bedroom Design,2025,6,True,False,Lost,Negotiation,0
+404,2025-06-03,Walk-in,Commercial,Rahul S,9305008482,Anoop Kurup,Rajan Developers,Small Business,11.881528693873138,75.40430996987996,Kannur,Traditional Living Room,2025,6,True,False,Quotation Sent,Won,336539
+405,2025-06-05,Website,Office Interiors,Rahul S,9911297673,Vijay Patel,,Small Business,10.757710719291236,76.65986604592365,Palakkad,Full Home Interior,2025,6,True,True,Lost,Won,1641620
+406,2025-06-07,WhatsApp,Renovation,Priya M,9604189314,Sreelatha Kumar,Rajan Properties,Architect Referral,9.52232713922523,76.3041144500084,Alappuzha,Commercial Space,2025,6,True,False,Won,Follow-up,0
+407,2025-06-09,Website,Office Interiors,Suresh L,9718411775,Divya George,,Builder,8.476619909482107,76.95941164373362,Thiruvananthapuram,Commercial Space,2025,6,True,False,Won,Lost,0
+408,2025-06-12,Instagram,Commercial,Rahul S,9473736122,Priya Varma,,Architect Referral,11.036483185554317,76.08112514100996,Malappuram,False Ceiling,2025,6,True,False,Site Visit,Follow-up,437867
+409,2025-06-14,Website,Office Interiors,Vijay R,9475725131,Asif Das,Santhosh Developers,Corporate,8.552121264853564,76.95972505893474,Thiruvananthapuram,Office Cabin,2025,6,True,False,Lost,Won,378477
+410,2025-06-16,Facebook,Commercial,Suresh L,9343889328,Nisha Iyer,Sreelatha Interiors,Small Business,11.88088929210554,75.39737466228571,Kannur,Office Cabin,2025,6,True,False,Site Visit,Lost,0
+411,2025-06-18,Facebook,Commercial,Meera T,9508540958,Lakshmi Namboothiri,,Architect Referral,10.762816243251086,76.70234103676847,Palakkad,Traditional Living Room,2025,6,True,False,Won,Won,549755
+412,2025-06-20,Walk-in,Residential,Priya M,9414491228,Anjali Menon,Rajesh Properties,Corporate,9.611095311934305,76.52955632800267,Kottayam,Bathroom Renovation,2025,6,True,True,Lost,Design Phase,0
+413,2025-06-23,Instagram,Modular Kitchen,Rahul S,9297252350,Gopal Varma,,Architect Referral,11.881239094415607,75.35456411126907,Kannur,Bedroom Design,2025,6,False,False,Follow-up,Follow-up,0
+414,2025-06-25,Walk-in,Residential,Priya M,9476450884,Anoop Das,,Builder,11.288424360945639,75.79524645569002,Kozhikode,Modular Wardrobe,2025,6,True,False,Design Phase,Negotiation,0
+415,2025-06-27,WhatsApp,Residential,Meera T,9852148157,Divya Thomas,,Builder,10.551102518618983,76.17124407092426,Thrissur,Bedroom Design,2025,6,True,False,Design Phase,Lost,0
+416,2025-06-29,WhatsApp,Office Interiors,Divya N,9842018392,Manoj Iyer,Deepa LLP,Builder,11.885510792203624,75.41013973183216,Kannur,Commercial Space,2025,6,True,False,Won,Won,2274344
+417,2025-07-01,JustDial,Residential,Divya N,9208393598,Rekha Das,,Builder,11.049817767531081,76.03303810113383,Malappuram,Traditional Living Room,2025,7,True,False,Lost,Design Phase,0
+418,2025-07-04,Instagram,Residential,Suresh L,9111364638,Sabu Panicker,,Individual,11.014318212566753,76.05388428378858,Malappuram,Full Home Interior,2025,7,True,False,Won,Lost,0
+419,2025-07-06,Facebook,Residential,Meera T,9186217428,Priya Thomas,Deepa Developers,Corporate,11.850633301788537,75.40197453806262,Kannur,Modular Wardrobe,2025,7,True,False,Follow-up,Lost,0
+420,2025-07-08,Referral,Renovation,Sneha B,9632884217,Rajan Kurup,Priya Builders,Corporate,9.490009947291709,76.34853123783307,Alappuzha,Bedroom Design,2025,7,True,False,Follow-up,Negotiation,0
+421,2025-07-10,Instagram,Commercial,Sneha B,9194287443,Meera George,,Builder,10.53752992870064,76.20376355202774,Thrissur,Full Home Interior,2025,7,True,False,Quotation Sent,Won,2472651
+422,2025-07-12,Referral,Commercial,Suresh L,9481964670,Gopal Joseph,,Individual,11.260170785521531,75.7777435659375,Kozhikode,Modular Wardrobe,2025,7,True,False,Design Phase,Site Visit,0
+423,2025-07-15,Website,Office Interiors,Arun K,9156896917,Priya Patel,,Builder,11.853318452595952,75.40585473932022,Kannur,Bedroom Design,2025,7,True,False,Lost,Follow-up,0
+424,2025-07-17,Website,Office Interiors,Priya M,9107199107,Arun Krishnan,,Individual,9.448746435778972,76.322800438606,Alappuzha,False Ceiling,2025,7,True,False,Follow-up,Won,288826
+425,2025-07-19,Instagram,Residential,Priya M,9102806284,Santhosh Kumar,Manoj Builders,Builder,11.050623922190082,76.10806496848122,Malappuram,Commercial Space,2025,7,True,False,Quotation Sent,Won,1767354
+426,2025-07-21,Google Ads,Modular Kitchen,Divya N,9630333228,Abdul Patel,,Small Business,11.029562598856224,76.02991344309767,Malappuram,Modern Kitchen,2025,7,True,False,Site Visit,Won,800782
+427,2025-07-23,Instagram,Office Interiors,Sneha B,9618269566,Deepa Patel,,Small Business,10.810160830071053,76.68247984372086,Palakkad,Modular Wardrobe,2025,7,True,False,Won,Quotation Sent,241391
+428,2025-07-26,Google Ads,Modular Kitchen,Anjali D,9530705577,Lakshmi Hassan,Priya Enterprises,Architect Referral,11.826894626527048,75.40515476330548,Kannur,Commercial Space,2025,7,False,False,Lost,Negotiation,196256
+429,2025-07-28,JustDial,Residential,Rahul S,9282943345,Sabu Kurup,Fathima Builders,Builder,10.53608278113058,76.18258176528373,Thrissur,Pooja Room,2025,7,True,False,Lost,Won,1868182
+430,2025-07-30,Facebook,Office Interiors,Rahul S,9329842864,Deepa Pillai,,Corporate,9.975347423750607,76.26033465323722,Kochi,Bathroom Renovation,2025,7,True,False,Won,Won,222905
+431,2025-08-01,Google Ads,Commercial,Rahul S,9646873619,Rekha Menon,,Architect Referral,10.49504092671115,76.18094997746637,Thrissur,Traditional Living Room,2025,8,True,False,Won,Negotiation,0
+432,2025-08-03,Google Ads,Residential,Divya N,9643443443,Manoj Abraham,Manoj Group,Small Business,11.04816494907506,76.09176041289942,Malappuram,Pooja Room,2025,8,True,False,Won,Follow-up,28402
+433,2025-08-05,Website,Commercial,Meera T,9101141452,Suma Varma,Sabu LLP,Builder,11.010142199181715,76.07463477680616,Malappuram,Full Home Interior,2025,8,True,False,Negotiation,Lost,0
+434,2025-08-08,Website,Residential,Ajith P,9753043637,Suma Nair,Rekha Interiors,Architect Referral,8.536668191226136,76.95013233467083,Thiruvananthapuram,Modular Wardrobe,2025,8,True,True,Lost,Lost,0
+435,2025-08-10,Facebook,Residential,Sneha B,9166014115,Divya Kumar,,Builder,11.056053168059623,76.04074869669562,Malappuram,Traditional Living Room,2025,8,True,False,Won,Won,87180
+436,2025-08-12,Google Ads,Office Interiors,Sneha B,9994743008,Thomas Warrier,,Small Business,11.249536552421285,75.75157458620524,Kozhikode,Traditional Living Room,2025,8,True,False,Won,Negotiation,0
+437,2025-08-14,Instagram,Residential,Anjali D,9333377664,Abdul Pillai,,Architect Referral,8.895337702147375,76.56824973255098,Kollam,Pooja Room,2025,8,True,False,Site Visit,Design Phase,0
+438,2025-08-16,Facebook,Commercial,Priya M,9534733966,Shyamala Patel,Suma Associates,Small Business,11.9141574658469,75.35260675351958,Kannur,Pooja Room,2025,8,True,False,Quotation Sent,Won,1225711
+439,2025-08-19,Website,Commercial,Arun K,9956868812,Gopal George,,Individual,10.497229430231107,76.22037446613336,Thrissur,Modern Kitchen,2025,8,True,False,Follow-up,Follow-up,164195
+440,2025-08-21,Referral,Residential,Suresh L,9502767120,Asif Menon,Manoj Constructions,Small Business,8.845456451170534,76.64989349139972,Kollam,Bedroom Design,2025,8,True,True,Lost,Lost,0
+441,2025-08-23,Instagram,Renovation,Priya M,9288759959,Vijay Menon,Vijay Builders,Builder,9.53426648846991,76.35549274474587,Alappuzha,Modular Wardrobe,2025,8,False,False,Design Phase,Lost,0
+442,2025-08-25,Facebook,Residential,Meera T,9833321201,Santhosh Namboothiri,Thankam Associates,Corporate,9.938911708238791,76.26083963233998,Kochi,Commercial Space,2025,8,True,False,Won,Won,647726
+443,2025-08-27,YouTube,Residential,Suresh L,9952563674,Vijay Panicker,Sreelatha Developers,Small Business,11.297865845546186,75.8257120114394,Kozhikode,Office Cabin,2025,8,True,False,Won,Quotation Sent,121491
+444,2025-08-30,Instagram,Residential,Sneha B,9272052588,Gopal Nair,Manoj Enterprises,Corporate,10.537294522341316,76.23632452005758,Thrissur,Modular Wardrobe,2025,8,True,False,Lost,Follow-up,0
+445,2025-09-01,Website,Residential,Meera T,9936082966,Anoop Patel,Anoop Enterprises,Individual,8.92421610899597,76.65711652028625,Kollam,Modular Wardrobe,2025,9,True,False,Won,Follow-up,0
+446,2025-09-03,Google Ads,Residential,Suresh L,9278073261,Deepa Iyer,Rajan Builders,Architect Referral,9.924167336335515,76.27005879732722,Kochi,Modular Wardrobe,2025,9,False,False,Lost,Lost,0
+447,2025-09-05,Referral,Modular Kitchen,Anjali D,9572195399,Anoop Kurup,,Architect Referral,8.549085993128827,76.91249042747931,Thiruvananthapuram,Traditional Living Room,2025,9,True,False,Quotation Sent,Won,1931986
+448,2025-09-07,Google Ads,Renovation,Anjali D,9991381511,Mohammed Pillai,Shyamala Builders,Corporate,11.300104146688986,75.73568266863647,Kozhikode,Full Home Interior,2025,9,True,False,Negotiation,Won,1039924
+449,2025-09-10,Referral,Residential,Vijay R,9849568314,Nisha Varma,,Architect Referral,11.266012296372221,75.80300848514838,Kozhikode,Traditional Living Room,2025,9,True,False,Lost,Negotiation,389989
+450,2025-09-12,IndiaMART,Modular Kitchen,Ajith P,9253814126,Kavitha Thomas,Suma Enterprises,Small Business,8.492178515056239,76.89873029980055,Thiruvananthapuram,Full Home Interior,2025,9,True,False,Design Phase,Won,1153248
+451,2025-09-14,Instagram,Modular Kitchen,Anjali D,9780471226,Abdul Das,Babu Homes,Corporate,11.851379761503019,75.3506775128272,Kannur,Pooja Room,2025,9,False,False,Won,Negotiation,71821
+452,2025-09-16,Google Ads,Office Interiors,Sneha B,9486323212,Priya Thomas,Rekha Properties,Builder,8.49396445768974,76.93984709078839,Thiruvananthapuram,Office Cabin,2025,9,True,True,Won,Lost,0
+453,2025-09-18,Google Ads,Commercial,Arun K,9127639012,Abdul Varma,,Small Business,11.233485702759575,75.78684165877797,Kozhikode,Traditional Living Room,2025,9,True,False,Follow-up,Lost,0
+454,2025-09-21,Instagram,Residential,Rahul S,9196706715,Kavitha Hassan,,Small Business,11.239441544935104,75.79045831969871,Kozhikode,Full Home Interior,2025,9,True,False,Negotiation,Follow-up,79224
+455,2025-09-23,Google Ads,Residential,Vijay R,9145422040,Babu Hassan,Anoop Associates,Small Business,8.89871337867532,76.58072553303496,Kollam,Traditional Living Room,2025,9,True,False,Won,Lost,0
+456,2025-09-25,Google Ads,Modular Kitchen,Rahul S,9969680828,Meera Hassan,,Builder,11.059799162946383,76.05907374048216,Malappuram,Bathroom Renovation,2025,9,True,False,Lost,Won,1079922
+457,2025-09-27,Walk-in,Office Interiors,Ajith P,9763538959,Thomas Thomas,Fathima Developers,Individual,9.923849974724186,76.2790194227117,Kochi,Traditional Living Room,2025,9,True,False,Negotiation,Lost,0
+458,2025-09-29,Instagram,Residential,Suresh L,9595010678,Thankam Khan,,Architect Referral,8.535642077982084,76.98358188646338,Thiruvananthapuram,Office Cabin,2025,9,True,False,Negotiation,Negotiation,0
+459,2025-10-02,Facebook,Commercial,Divya N,9144772085,Suma Krishnan,Arun Interiors,Corporate,9.889357492561137,76.29006311376997,Kochi,Office Cabin,2025,10,True,False,Negotiation,Negotiation,0
+460,2025-10-04,JustDial,Renovation,Anjali D,9873030609,Deepa Hassan,,Individual,8.482878823705816,76.97886037570939,Thiruvananthapuram,Full Home Interior,2025,10,True,False,Lost,Lost,0
+461,2025-10-06,Google Ads,Office Interiors,Arun K,9155500286,Manoj Varma,Meera Builders,Corporate,9.465282946035767,76.36502120583143,Alappuzha,Full Home Interior,2025,10,True,False,Won,Follow-up,395921
+462,2025-10-08,IndiaMART,Renovation,Ajith P,9516228240,Rekha Khan,,Architect Referral,11.260607749804036,75.78957169688924,Kozhikode,Pooja Room,2025,10,True,False,Lost,Won,1868222
+463,2025-10-10,Facebook,Office Interiors,Rahul S,9976530973,Anjali Panicker,Sreelatha Constructions,Builder,11.022399467869832,76.04030233691364,Malappuram,Office Cabin,2025,10,False,False,Won,Won,1266383
+464,2025-10-13,JustDial,Commercial,Vijay R,9895308044,Anoop Sharma,Priya Group,Small Business,8.871528440349257,76.63076856518924,Kollam,Office Cabin,2025,10,True,False,Design Phase,Won,613506
+465,2025-10-15,Referral,Modular Kitchen,Anjali D,9183532383,Anoop Thomas,Vijay Interiors,Small Business,11.041031283617299,76.08343795659599,Malappuram,Modern Kitchen,2025,10,True,False,Follow-up,Quotation Sent,415429
+466,2025-10-17,WhatsApp,Modular Kitchen,Sneha B,9640328433,Thomas Namboothiri,Meera LLP,Builder,11.082186612401038,76.08134691704572,Malappuram,Modular Wardrobe,2025,10,True,False,Lost,Won,565729
+467,2025-10-19,YouTube,Residential,Anjali D,9735078364,Rajan Abraham,Kavitha Homes,Individual,11.002386213591286,76.07007858679883,Malappuram,False Ceiling,2025,10,True,False,Site Visit,Won,1328342
+468,2025-10-21,Facebook,Commercial,Vijay R,9993876461,Meera Khan,,Individual,9.946137882023663,76.27016566039893,Kochi,Traditional Living Room,2025,10,True,False,Follow-up,Won,901112
+469,2025-10-23,IndiaMART,Modular Kitchen,Vijay R,9433087837,Rajesh Hassan,Santhosh Group,Corporate,8.54098765310407,76.9200442527118,Thiruvananthapuram,Bedroom Design,2025,10,True,False,Lost,Won,2133805
+470,2025-10-26,Instagram,Residential,Divya N,9833186828,Manoj Kurup,Fathima Properties,Builder,9.621465578035663,76.52413126926423,Kottayam,Pooja Room,2025,10,True,False,Site Visit,Negotiation,0
+471,2025-10-28,Instagram,Office Interiors,Anjali D,9849040810,Sreelatha Abraham,Anjali Developers,Individual,9.541375293906032,76.30855559056785,Alappuzha,Modular Wardrobe,2025,10,True,True,Quotation Sent,Won,404182
+472,2025-10-30,Facebook,Modular Kitchen,Anjali D,9230840532,Santhosh Kurup,Divya Interiors,Builder,10.479613784894928,76.24491743973604,Thrissur,False Ceiling,2025,10,True,False,Negotiation,Won,998494
+473,2025-11-01,Referral,Renovation,Divya N,9155376477,Vijay Krishnan,Lakshmi Interiors,Architect Referral,11.016378370551323,76.03967769546988,Malappuram,Modern Kitchen,2025,11,True,True,Won,Negotiation,29515
+474,2025-11-03,Google Ads,Residential,Meera T,9978099092,Fathima Panicker,Rekha Properties,Small Business,11.913117129405599,75.32889662898896,Kannur,Bedroom Design,2025,11,False,False,Follow-up,Lost,0
+475,2025-11-06,Referral,Residential,Meera T,9295217007,Nisha Sharma,,Small Business,9.927051856218702,76.26092460263573,Kochi,Full Home Interior,2025,11,True,False,Site Visit,Negotiation,0
+476,2025-11-08,Referral,Modular Kitchen,Suresh L,9488314678,Thankam Warrier,Rekha Developers,Small Business,8.899659063893347,76.6299307439506,Kollam,Office Cabin,2025,11,True,False,Won,Follow-up,479668
+477,2025-11-10,Walk-in,Residential,Meera T,9729644112,Rajesh Pillai,,Builder,10.543902720372314,76.20817168249336,Thrissur,Bathroom Renovation,2025,11,True,False,Won,Won,1624255
+478,2025-11-12,WhatsApp,Modular Kitchen,Priya M,9145444007,Nisha Iyer,,Builder,9.609506660449563,76.49987541319513,Kottayam,Pooja Room,2025,11,True,True,Quotation Sent,Negotiation,0
+479,2025-11-14,Instagram,Office Interiors,Anjali D,9594475891,Rajesh Hassan,,Corporate,11.91767404033165,75.37621711838905,Kannur,Commercial Space,2025,11,True,False,Won,Won,1402935
+480,2025-11-17,Facebook,Residential,Arun K,9830284174,Sreelatha Pillai,,Small Business,9.641294941741167,76.50690023354122,Kottayam,Office Cabin,2025,11,True,False,Site Visit,Follow-up,0
+481,2025-11-19,Facebook,Commercial,Anjali D,9789796296,Kavitha George,Gopal Constructions,Corporate,10.549615746093094,76.25768676901266,Thrissur,Bathroom Renovation,2025,11,True,False,Follow-up,Lost,0
+482,2025-11-21,Google Ads,Commercial,Priya M,9142322633,Priya Pillai,Babu Properties,Small Business,11.029722120920516,76.11336451396036,Malappuram,False Ceiling,2025,11,True,False,Lost,Won,1765818
+483,2025-11-23,Google Ads,Commercial,Priya M,9201158251,Suresh Patel,,Corporate,11.912475240229433,75.37063718199721,Kannur,Full Home Interior,2025,11,True,False,Won,Negotiation,385286
+484,2025-11-25,Facebook,Renovation,Rahul S,9105478878,Deepa Thomas,Manoj Interiors,Corporate,9.546522091454076,76.50498839940182,Kottayam,Bedroom Design,2025,11,True,False,Site Visit,Quotation Sent,378350
+485,2025-11-28,Facebook,Office Interiors,Anjali D,9630002484,Rajesh Abraham,Thankam Developers,Architect Referral,8.86630808528745,76.63781324139566,Kollam,False Ceiling,2025,11,True,False,Lost,Design Phase,0
+486,2025-11-30,IndiaMART,Modular Kitchen,Ajith P,9315792086,Suma Hassan,Nisha Properties,Corporate,8.563838571746372,76.89027129434831,Thiruvananthapuram,Office Cabin,2025,11,True,False,Follow-up,Negotiation,52679
+487,2025-12-02,Referral,Modular Kitchen,Priya M,9642550399,Lakshmi George,,Builder,11.234419151443936,75.77787690060437,Kozhikode,Office Cabin,2025,12,True,False,Negotiation,Lost,0
+488,2025-12-04,Facebook,Commercial,Arun K,9249943987,Nisha Nair,Gopal Properties,Corporate,8.496165105962175,76.92023233942703,Thiruvananthapuram,Bedroom Design,2025,12,True,True,Negotiation,Won,2147951
+489,2025-12-06,Referral,Renovation,Divya N,9222280861,Fathima George,,Small Business,10.491412529314024,76.25645358851025,Thrissur,Commercial Space,2025,12,True,False,Design Phase,Won,1416379
+490,2025-12-09,Google Ads,Modular Kitchen,Suresh L,9319730336,Meera Thomas,,Corporate,9.967111175764693,76.21850030272728,Kochi,Bathroom Renovation,2025,12,True,False,Follow-up,Follow-up,497625
+491,2025-12-11,Instagram,Modular Kitchen,Rahul S,9542304312,Thankam Menon,Anjali Associates,Individual,11.25880582591911,75.78568148757184,Kozhikode,False Ceiling,2025,12,False,False,Lost,Lost,0
+492,2025-12-13,Website,Office Interiors,Divya N,9908220979,Manoj Pillai,Abdul Interiors,Small Business,9.515589320305416,76.36286635810667,Alappuzha,Full Home Interior,2025,12,True,False,Design Phase,Quotation Sent,24481
+493,2025-12-15,Referral,Residential,Rahul S,9866151304,Meera Menon,,Individual,8.867106638407503,76.6126017987524,Kollam,Office Cabin,2025,12,True,False,Negotiation,Lost,0
+494,2025-12-17,Instagram,Office Interiors,Arun K,9483026869,Thankam George,Arun Builders,Small Business,9.523904042101123,76.29734030301628,Alappuzha,False Ceiling,2025,12,True,False,Lost,Lost,0
+495,2025-12-20,YouTube,Residential,Vijay R,9790113536,Rajan Sharma,Gopal Group,Builder,11.90050055449621,75.4176461390028,Kannur,Commercial Space,2025,12,True,True,Won,Lost,0
+496,2025-12-22,JustDial,Residential,Anjali D,9297600299,Mohammed Kurup,Rajan Homes,Builder,11.240059802490832,75.7822010431376,Kozhikode,False Ceiling,2025,12,True,False,Quotation Sent,Quotation Sent,0
+497,2025-12-24,Website,Residential,Sneha B,9207252450,Sreelatha Warrier,Lakshmi Interiors,Builder,9.489168263301028,76.3502186244319,Alappuzha,Bedroom Design,2025,12,True,False,Lost,Negotiation,133014
+498,2025-12-26,Referral,Renovation,Ajith P,9116037706,Babu Hassan,Sabu Enterprises,Individual,9.469069027743021,76.31246097827076,Alappuzha,Full Home Interior,2025,12,False,False,Negotiation,Negotiation,424983
+499,2025-12-28,Website,Office Interiors,Divya N,9954864993,Babu Thomas,Smitha Constructions,Architect Referral,9.63925610233229,76.52054980851068,Kottayam,Modern Kitchen,2025,12,True,False,Follow-up,Lost,0
+500,2025-12-31,Facebook,Modular Kitchen,Anjali D,9469397535,Anoop Khan,Fathima Associates,Small Business,8.538660257705843,76.92951494919583,Thiruvananthapuram,Bedroom Design,2025,12,True,False,Won,Site Visit,0

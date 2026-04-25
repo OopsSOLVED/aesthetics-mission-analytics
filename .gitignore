@@ -1,0 +1,49 @@
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.whl
+
+# ─── Virtual Environments ────────────────────────────────────────────────────
+.venv/
+venv/
+ENV/
+env/
+
+# ─── IDE / Editor ────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ─── OS Files ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# ─── Streamlit ───────────────────────────────────────────────────────────────
+# Keep .streamlit/config.toml but ignore secrets
+.streamlit/secrets.toml
+
+# ─── Jupyter ─────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ─── Logs ────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── Environment Variables ───────────────────────────────────────────────────
+.env
+.env.local
+.env.production
